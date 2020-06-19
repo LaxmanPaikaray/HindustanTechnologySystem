@@ -390,16 +390,14 @@
                             <!--Footer Column-->
                             <div class="col-lg-5 col-sm-6 col-xs-12 column">
                                 <div class="sec-title-three">
-                                	<h2>Usefull Links</h2>
+                                	<h2>Quick Links</h2>
                                 </div>
                                 <div class="footer-widget links-widget">
                                     <ul>
-                                        <li><a href="#">Agriculture Processing</a></li>
-                                        <li><a href="#">Chemical Research</a></li>
-                                        <li><a href="#">Metal Engineering</a></li>
-                                        <li><a href="#">Mechanical Engineering</a></li>
-                                        <li><a href="#">Petroleum & Gas</a></li>
-                                        <li><a href="#">Power & Energy</a></li>
+                                        <li><a href="#">Home</a></li>
+                                        <li><a href="#">About Us</a></li>
+                                        <li><a href="#">Products</a></li>
+                                        <li><a href="#">Contact</a></li>
                                     </ul>
         
                                 </div>
@@ -413,36 +411,31 @@
                     	<div class="row clearfix">
                     		<!--Footer Column-->
                         	<div class="col-lg-6 col-sm-6 col-xs-12 column">
-                            	<div class="footer-widget twitter-widget">
-                                	 	<div class="sec-title-three">
-                                			<h2>Twitter Feed</h2>
-                                		</div>
-                                    <div class="widget-content">
-                                    	<div class="feed">
-                                        	<div class="text"><span class="icon fa fa-twitter"></span> @ <h4 class="author-title">Roffell</h4>this year is and launches the last of that deep : paragraph.co.in</div>
-                                            <span class="month">about a month</span>
-                                        </div>
-                                        <div class="feed">
-                                        	<div class="text"><span class="icon fa fa-twitter"></span> @ <h4 class="author-title">Markel</h4>this year is and launches the last of that deep time to light the lights poster :  abstract.co.in</div>
-                                            <span class="month">about 5 min ago</span>
-                                        </div>
-                                    </div>
+                            <div class="sec-title-three">
+                                	<h2>Products</h2>
                                 </div>
+                                <div class="footer-widget links-widget">
+                                    <ul>
+                                        <li><a href="#">Conveyor Belt</a></li>
+                                        <li><a href="#">Conveyor System</a></li>
+                                        <li><a href="#">Vibro Sifter</a></li>
+                                        <li><a href="#">IPC Container</a></li>
+                                        <li><a href="#">Metal Detector</a></li>
+                                        <li><a href="#">Deduster Machine</a></li>
+                                    </ul>
+        
+                                </div>
+                              
                             </div>
-                            
+                           
                             <!--Footer Column-->
                     		<div class="col-md-6 col-sm-6 col-xs-12 column">
                     			<div class="footer-widget gallery-widget">
                                     <div class="sec-title-three">
-                                    	<h2>Flickr Photos</h2>
+                                    	<h2>Contact Us</h2>
                                     </div>
                                     <div class="clearfix">
-                                        <figure class="image"><a href="images/resource/footer-gallery-1.jpg" class="lightbox-image" title="Caption Here"><img src="images/resource/footer-gallery-1.jpg" alt=""></a></figure>
-                                        <figure class="image"><a href="images/resource/footer-gallery-2.jpg" class="lightbox-image" title="Caption Here"><img src="images/resource/footer-gallery-2.jpg" alt=""></a></figure>
-                                        <figure class="image"><a href="images/resource/footer-gallery-3.jpg" class="lightbox-image" title="Caption Here"><img src="images/resource/footer-gallery-3.jpg" alt=""></a></figure>
-                                        <figure class="image"><a href="images/resource/footer-gallery-4.jpg" class="lightbox-image" title="Caption Here"><img src="images/resource/footer-gallery-4.jpg" alt=""></a></figure>
-                                        <figure class="image"><a href="images/resource/footer-gallery-5.jpg" class="lightbox-image" title="Caption Here"><img src="images/resource/footer-gallery-5.jpg" alt=""></a></figure>
-                                        <figure class="image"><a href="images/resource/footer-gallery-6.jpg" class="lightbox-image" title="Caption Here"><img src="images/resource/footer-gallery-6.jpg" alt=""></a></figure>
+                                        <h3>HindustanTechnology</h3>
                                     </div>
                                 </div>
                     		</div>
