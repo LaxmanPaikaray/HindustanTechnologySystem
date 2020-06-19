@@ -93,13 +93,12 @@
                                 <li><a href="about-us.html">About Us</a></li>
                                 <li class="dropdown"><a href="#">Products</a>
                                     <ul>
-                                        <li><a href="services.html">Our Services</a></li>
-                                        <li><a href="services-details.html">Agriculture Processing</a></li>
-                                        <li><a href="services-details.html">Chemical Research</a></li>
-                                        <li><a href="services-details.html">Mechanical Engineering</a></li>
-                                        <li><a href="services-details.html">Metal Engineering</a></li>
-                                        <li><a href="services-details.html">Petroleum & Gas</a></li>
-                                        <li><a href="services-details.html">Power & Energy</a></li>
+                                        <li><a href="services.html">Conveyor Belt</a></li>
+                                        <li><a href="services-details.html">Conveyor System</a></li>
+                                        <li><a href="services-details.html">Vibro Sifter</a></li>
+                                        <li><a href="services-details.html">IPC Container</a></li>
+                                        <li><a href="services-details.html">Metal Detector</a></li>
+                                        <li><a href="services-details.html">Deduster Machine</a></li>
                                     </ul>
                                 </li>
                                 
@@ -141,13 +140,12 @@
                                 <li><a href="about-us.php">About Us</a></li>
                                 <li class="dropdown"><a href="#">Products</a>
                                     <ul>
-                                        <li><a href="services.html">Our Services</a></li>
-                                        <li><a href="services-details.html">Agriculture Processing</a></li>
-                                        <li><a href="services-details.html">Chemical Research</a></li>
-                                        <li><a href="services-details.html">Mechanical Engineering</a></li>
-                                        <li><a href="services-details.html">Metal Engineering</a></li>
-                                        <li><a href="services-details.html">Petroleum & Gas</a></li>
-                                        <li><a href="services-details.html">Power & Energy</a></li>
+                                        <li><a href="services.html">Conveyor Belt</a></li>
+                                        <li><a href="services-details.html">Conveyor System</a></li>
+                                        <li><a href="services-details.html">Vibro Sifter</a></li>
+                                        <li><a href="services-details.html">IPC Containe</a></li>
+                                        <li><a href="services-details.html">Metal Detector</a></li>
+                                        <li><a href="services-details.html">Deduster Machine</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="contact.html">Contact</a></li>
