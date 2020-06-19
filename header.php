@@ -89,8 +89,8 @@
                         
                         <div class="navbar-collapse collapse clearfix">
                             <ul class="navigation clearfix">
-                                <li><a href="/">Home</a></li>
-                                <li><a href="about-us.html">About Us</a></li>
+                                <li><a href="index.php">Home</a></li>
+                                <li><a href="about-us.php">About Us</a></li>
                                 <li class="dropdown"><a href="#">Products</a>
                                     <ul>
                                         <li><a href="services.html">Our Services</a></li>
@@ -103,7 +103,7 @@
                                     </ul>
                                 </li>
                                 
-                                <li><a href="contact.html">Contact</a></li>
+                                <li><a href="contact.php">Contact</a></li>
                             </ul>
                         </div>
                     </nav>
@@ -137,7 +137,7 @@
                         
                         <div class="navbar-collapse collapse clearfix">
                             <ul class="navigation clearfix">
-                                <li><a href="/">Home</a></li>
+                                <li><a href="index.php">Home</a></li>
                                 <li><a href="about-us.php">About Us</a></li>
                                 <li class="dropdown"><a href="#">Products</a>
                                     <ul>
@@ -150,7 +150,7 @@
                                         <li><a href="services-details.html">Power & Energy</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="contact.html">Contact</a></li>
+                                <li><a href="contact.php">Contact</a></li>
                             </ul>
                         </div>
                     </nav><!-- Main Menu End-->
