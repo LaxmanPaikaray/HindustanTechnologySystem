@@ -28,7 +28,7 @@
             	<div class="clearfix">
                 	
                 	<div class="pull-left logo-outer">
-                    	<div class="logo"><a href="index.html"><img src="images/logo.png" alt="Brighton" title="Brighton"></a></div>
+                    	<div class="logo"><a href="index.php"><img src="images/finalogo.png" alt="Brighton" title="Brighton"></a></div>
                     </div>
                     
                     <div class="pull-right upper-right clearfix">
@@ -93,16 +93,15 @@
                                 <li><a href="about-us.php">About Us</a></li>
                                 <li class="dropdown"><a href="#">Products</a>
                                     <ul>
-                                        <li><a href="services.html">Conveyor Belt</a></li>
-                                        <li><a href="services-details.html">Conveyor System</a></li>
-                                        <li><a href="services-details.html">Vibro Sifter</a></li>
-                                        <li><a href="services-details.html">IPC Container</a></li>
-                                        <li><a href="services-details.html">Metal Detector</a></li>
-                                        <li><a href="services-details.html">Deduster Machine</a></li>
+                                        <li><a href="services.html">Pharma Machineries</a></li>
+                                        <li><a href="services-details.html">Food Industry Machineries</a></li>
+                                        <li><a href="services-details.html">Metal Detectors</a></li>
+                                        <li><a href="services-details.html">All types Of Conveyor</a></li>
+                                        
                                     </ul>
                                 </li>
                                 
-                                <li><a href="contact.php">Contact</a></li>
+                                <li><a href="contact.php">Contact Us</a></li>
                             </ul>
                         </div>
                     </nav>
@@ -118,7 +117,7 @@
         	<div class="auto-container clearfix">
             	<!--Logo-->
             	<div class="logo pull-left">
-                	<a href="index.html" class="img-responsive"><img src="images/logo-small.png" alt="Brighton" title="Brighton"></a>
+                	<a href="index.php" class="img-responsive"><img src="images/finalogo.png" alt="Brighton" title="Brighton"></a>
                 </div>
                 
                 <!--Right Col-->
@@ -140,15 +139,13 @@
                                 <li><a href="about-us.php">About Us</a></li>
                                 <li class="dropdown"><a href="#">Products</a>
                                     <ul>
-                                        <li><a href="services.html">Conveyor Belt</a></li>
-                                        <li><a href="services-details.html">Conveyor System</a></li>
-                                        <li><a href="services-details.html">Vibro Sifter</a></li>
-                                        <li><a href="services-details.html">IPC Containe</a></li>
-                                        <li><a href="services-details.html">Metal Detector</a></li>
-                                        <li><a href="services-details.html">Deduster Machine</a></li>
+                                    <li><a href="services.html">Pharma Machineries</a></li>
+                                        <li><a href="services-details.html">Food Industry Machineries</a></li>
+                                        <li><a href="services-details.html">Metal Detectors</a></li>
+                                        <li><a href="services-details.html">All types Of Conveyor</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="contact.php">Contact</a></li>
+                                <li><a href="contact.php">Contact Us</a></li>
                             </ul>
                         </div>
                     </nav><!-- Main Menu End-->

@@ -105,8 +105,8 @@
                     	<div class="inner-box">
                             <div class="icon-box"><span class="flaticon-atom"></span></div>
                             
-                            <h3>Molecular Research</h3>
-                            <div class="text">The year is and launches the last of that americas deep space probes and we come true.</div>
+                            <h3>Advanced Research</h3>
+                            <div class="text"> We research and always try to find out the advanced skills for manufacturing</div>
                             
                         </div>
                     </div>
@@ -118,7 +118,7 @@
                             <div class="icon-box"><span class="flaticon-users"></span></div>
                             
                             <h3>Dedicated Team</h3>
-                            <div class="text">The year is and launches the last of that americas deep space probes and we come true.</div>
+                            <div class="text">As a foremost manufacturer we are aware of our enormous responsibility to our customers</div>
                             
                         </div>
                     </div>
@@ -130,7 +130,7 @@
                             <div class="icon-box"><span class="flaticon-package-cube-box-for-delivery"></span></div>
                             
                             <h3>Updated Standards</h3>
-                            <div class="text">The year is and launches the last of that americas deep space probes and we come true.</div>
+                            <div class="text">We use the latest methods for manufacturing our products to make them the best</div>
                             
                         </div>
                     </div>
@@ -142,7 +142,7 @@
                             <div class="icon-box"><span class="flaticon-anchor"></span></div>
                             
                             <h3>Quality Assurance</h3>
-                            <div class="text">The year is and launches the last of that americas deep space probes and we come true.</div>
+                            <div class="text">Before processing or shipping to customers, every product is gone through quality assurance test</div>
                             
                         </div>
                     </div>
@@ -151,188 +151,7 @@
         </div>
     </section>
     
-    <!--testimonial-section-->
-    <section class="testimonial-section">
-    	<div class="auto-container">
-        	<div class="row clearfix">
-            	<!--testimonial-column-->
-            	<div class="testimonial-column col-md-8 col-sm-12 col-xs-12">
-                	<div class="sec-title-one">
-                    	<h2>What People Says</h2>
-                    </div>
-                    
-                    <!--Carousel Outer-->
-                    <div class="carousel-outer">
-                        <div class="single-item-carousel">
-        
-                            <!--testimonial box-->
-                            <div class="testimonial-box">
-                                <div class="text"><span class="fa fa-quote-left"></span>The way we all became the Brady Bunch and you know where you were then be to end the mate was a mighty sailing man the skipper brave and sure five passengers set sail that day for a three hour tour a three hour tour why do we always come here the skipper brave and sure five passengers.<span class="fa fa-quote-right"></span></div>
-                                <!--author-info-->
-                                <div class="author-info">
-                                	<figure class="image">
-                                    	<img src="images/resource/author-thumb-1.jpg" alt="" />
-                                    </figure>
-                                    <h3>George Mc Mahon</h3>
-                                    <div class="designation">Co-Founder</div>
-                                    
-                                </div>
-                            </div>
-                            
-                            <div class="testimonial-box">
-                                <div class="text"><span class="fa fa-quote-left"></span>The way we all became the Brady Bunch and you know where you were then be to end the mate was a mighty sailing man the skipper brave and sure five passengers set sail that day for a three hour tour a three hour tour why do we always come here the skipper brave and sure five passengers.<span class="fa fa-quote-right"></span></div>
-                                <div class="author-info">
-                                	<figure class="image">
-                                    	<img src="images/resource/author-thumb-1.jpg" alt="" />
-                                    </figure>
-                                    <h3>George Mc Mahon</h3>
-                                    <div class="designation">Co-Founder</div>
-                                    
-                                </div>
-                            </div>
-                            
-						</div>
-					</div>
-                    
-                </div>
-                
-                <div class="fact-counter-column col-md-4 col-sm-12 col-xs-12">
-                	<div class="fact-counter">
-                <div class="clearfix">
-                
-                    <!--Column-->
-                    <div class="column counter-column wow fadeIn" data-wow-duration="0ms">
-                    	<div class="inner">
-                        	<div class="count-outer">
-                            	<span class="icon-box"><span class="fa fa-star-o"></span></span>
-                            	<span class="count-text" data-speed="1500" data-stop="30">0</span>
-                            </div>
-                            <h4 class="counter-title">Years of Excellence</h4>
-                       	</div>
-                    </div>
-                    
-                    <!--Column-->
-                    <div class="column counter-column wow fadeIn" data-wow-duration="0ms">
-                    	<div class="inner">
-                        	<div class="count-outer">
-                            	<span class="icon-box"><span class="flaticon-museum"></span></span>
-                            	<span class="count-text" data-speed="1500" data-stop="53">0</span>
-                            </div>
-                            <h4 class="counter-title">Global Branches</h4>
-                       	</div>
-                    </div>
-                    
-                    <!--Column-->
-                    <div class="column counter-column wow fadeIn" data-wow-duration="0ms">
-                    	<div class="inner">
-                        	<div class="count-outer">
-                            	<span class="icon-box"><span class="flaticon-medal"></span></span>
-                            	<span class="count-text" data-speed="1500" data-stop="48">0</span>
-                            </div>
-                            <h4 class="counter-title">Promoted Awards</h4>
-                       	</div>
-                    </div>
-                    
-                </div>
-            </div>
-                </div>
-                
-            </div>
-        </div>
-    </section>
-    
-    <!--professionals-->
-    <section class="professionals">
-    	<div class="auto-container">
-        
-        	<div class="sec-title-four">
-            	<h2>Our Professionals</h2>
-                <div class="text">The year is and launches the last of americas deep space probes and we dreams.</div>
-            </div>
-        	
-        	<div class="row clearfix">
-            	<div class="team-style-one col-md-4 col-sm-6 col-xs-12">
-                	<!--inner-box-->
-                	<div class="inner-box">
-                    	<figure class="image">
-                        	<img src="images/resource/team-image-1.jpg" alt="" />
-                        </figure>
-                        
-                        <div class="overlay-box">
-                        	<div class="lower-content">
-                        	<h3>MIKE DUDLEY</h3>
-                            <div class="designation">- Chief Engineer -</div>
-                            
-                            <ul class="social-nav">
-                            	<li><a class="fa fa-facebook" href="#"></a></li>
-                                <li><a class="fa fa-twitter" href="#"></a></li>
-                                <li><a class="fa fa-google-plus" href="#"></a></li>
-                            </ul>
-                            
-                        </div>
-                        </div>
-                        
-                    </div>
-                </div>
-                
-                <div class="team-style-one col-md-4 col-sm-6 col-xs-12">
-                	<!--inner-box-->
-                	<div class="inner-box">
-                    	<figure class="image">
-                        	<img src="images/resource/team-image-2.jpg" alt="" />
-                        </figure>
-                        
-                        <div class="overlay-box">
-                        	<div class="lower-content">
-                        	<h3>JOHNSON</h3>
-                            <div class="designation">- Metal Engineer -</div>
-                            
-                            <ul class="social-nav">
-                            	<li><a class="fa fa-facebook" href="#"></a></li>
-                                <li><a class="fa fa-twitter" href="#"></a></li>
-                                <li><a class="fa fa-google-plus" href="#"></a></li>
-                            </ul>
-                            
-                        </div>
-                        </div>
-                        
-                    </div>
-                </div>
-                
-                <div class="team-style-one col-md-4 col-sm-6 col-xs-12">
-                	<!--inner-box-->
-                	<div class="inner-box">
-                    	<figure class="image">
-                        	<img src="images/resource/team-image-3.jpg" alt="" />
-                        </figure>
-                        
-                        <div class="overlay-box">
-                        	<div class="lower-content">
-                        	<h3>RANDY CREWS</h3>
-                            <div class="designation">- Chemical Engineer -</div>
-                            
-                            <ul class="social-nav">
-                            	<li><a class="fa fa-facebook" href="#"></a></li>
-                                <li><a class="fa fa-twitter" href="#"></a></li>
-                                <li><a class="fa fa-google-plus" href="#"></a></li>
-                            </ul>
-                            
-                        </div>
-                        </div>
-                        
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    
-    <!--call-to-action-three-->
-    <section class="call-to-action-three" style="background-image:url(images/background/call-toaction-three-bg.png);">
-    	<div class="auto-container">
-            <h3>Brighton goal is to have customer service that is not just the best, but its Legendary</h3>
-            <a class="theme-btn btn-style-four" href="#">GET QUOTES</a>
-        </div>
-    </section>
+
     
     <!--tabs-section-->
     <section class="tabs-section">

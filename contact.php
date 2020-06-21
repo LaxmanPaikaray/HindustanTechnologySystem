@@ -20,7 +20,7 @@
     <!--Page Title-->
     <section class="page-title" style="background-image:url(images/background/featured-2-bg.jpg);">
         <div class="auto-container">
-            <h1>Contact</h1>
+            <h1>Contact Us</h1>
         </div>
         
         <!--page-info-->
@@ -30,8 +30,8 @@
             
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <ul class="bread-crumb clearfix">
-                            <li><a href="index.html">Home</a></li>
-                            <li class="active">Contact</li>
+                            <li><a href="index.php">Home</a></li>
+                            <li class="active">Contact Us</li>
                         </ul>
                     </div>
                     

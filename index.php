@@ -27,10 +27,9 @@
                 <ul>
                 	
                     <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/1.jpg"  data-saveperformance="off"  data-title="Awesome Title Here">
-                    <img src="images/main-slider/1.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat"> 
+                    <img src="images/Banner1.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat"> 
                     
                     <!--Overlay-->
-                    <div class="overlay-style-one"></div>
                     
                     <div class="tp-caption sfl sfb tp-resizeme"
                     data-x="left" data-hoffset="15"
@@ -69,16 +68,16 @@
                     data-elementdelay="0.01"
                     data-endelementdelay="0.3"
                     data-endspeed="1200"
-                    data-endeasing="Power4.easeIn"><a href="#" class="theme-btn btn-style-one">VIEW SOLUTIONS</a> &ensp;&ensp; <a href="#" class="theme-btn btn-style-two">CONTACT US</a></div>
+                    data-endeasing="Power4.easeIn"><a href="#" class="theme-btn btn-style-one">DETAILS</a> &ensp;&ensp; <a href="#" class="theme-btn btn-style-two">ABOUT US</a>
                     
                     
                     </li>
                     
                     <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/2.jpg"  data-saveperformance="off"  data-title="Awesome Title Here">
-                    <img src="images/main-slider/2.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+                    <img src="images/banner2.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
                     
                     <!--Overlay Style Two-->
-                    <div class="overlay-style-two"></div>
+                
                     
                     <div class="tp-caption sfl sfb tp-resizeme"
                     data-x="right" data-hoffset="-15"
@@ -91,7 +90,7 @@
                     data-elementdelay="0.01"
                     data-endelementdelay="0.3"
                     data-endspeed="1200"
-                    data-endeasing="Power4.easeIn"><div class="subtitle-text">Welcome to Brighton</div></div>
+                    data-endeasing="Power4.easeIn"><div class="subtitle-text">Food and Tablet Metal Detector</div></div>
                     
                     <div class="tp-caption text-right sft sfb tp-resizeme"
                     data-x="right" data-hoffset="-15"
@@ -104,7 +103,7 @@
                     data-elementdelay="0.01"
                     data-endelementdelay="0.3"
                     data-endspeed="1200"
-                    data-endeasing="Power4.easeIn"><h2>Industry standards begins with imitation<br>but ends in Innovation</h2></div>
+                    data-endeasing="Power4.easeIn"><h3> Metal detectors and X-ray inspection <br>equipment ensure product quality here</h3></div>
                     
                     <div class="tp-caption sfr sfb tp-resizeme"
                     data-x="right" data-hoffset="-15"
@@ -117,19 +116,17 @@
                     data-elementdelay="0.01"
                     data-endelementdelay="0.3"
                     data-endspeed="1200"
-                    data-endeasing="Power4.easeIn"><a href="#" class="theme-btn btn-style-one">contact us</a></div>
+                    data-endeasing="Power4.easeIn"><a href="#" class="theme-btn btn-style-one">DETAILS</a></div>
                     
                     </li>
                     
                     <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/3.jpg"  data-saveperformance="off"  data-title="Awesome Title Here">
-                    <img src="images/main-slider/3.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+                    <img src="images/banner3.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
                     
                     <!--Overlay Style Three-->
-                    <div class="overlay-style-three"></div>
-                    
                     <div class="tp-caption sfl sfb tp-resizeme"
-                    data-x="center" data-hoffset="0"
-                    data-y="center" data-voffset="-100"
+                    data-x="left" data-hoffset="15"
+                    data-y="center" data-voffset="-110"
                     data-speed="1500"
                     data-start="0"
                     data-easing="easeOutExpo"
@@ -138,24 +135,23 @@
                     data-elementdelay="0.01"
                     data-endelementdelay="0.3"
                     data-endspeed="1200"
-                    data-endeasing="Power4.easeIn"><div class="subtitle-text">We are Brighton Industry</div></div>
-                    
-                    <div class="tp-caption text-center sft sfb tp-resizeme"
-                    data-x="center" data-hoffset="0"
-                    data-y="center" data-voffset="-20"
+                    data-endeasing="Power4.easeIn"><div class="border-title">Z-conveyor</div></div>
+                    <div class="tp-caption sfl sfb tp-resizeme"
+                    data-x="left" data-hoffset="15"
+                    data-y="center" data-voffset="5"
                     data-speed="1500"
-                    data-start="0"
+                    data-start="500"
                     data-easing="easeOutExpo"
                     data-splitin="none"
                     data-splitout="none"
                     data-elementdelay="0.01"
                     data-endelementdelay="0.3"
                     data-endspeed="1200"
-                    data-endeasing="Power4.easeIn"><h2>We are the Top Industrial Manufacturer providing<br> the highest quality products</h2></div>
+                    data-endeasing="Power4.easeIn"><h3> Flexible chain is a new type of conveying belt, <br>than the traditional mode of delivery showed a many advantages.</h3></div>
                     
                     <div class="tp-caption sfr sfb tp-resizeme"
-                    data-x="center" data-hoffset="0"
-                    data-y="center" data-voffset="90"
+                    data-x="left" data-hoffset="15"
+                    data-y="center" data-voffset="125"
                     data-speed="1500"
                     data-start="1000"
                     data-easing="easeOutExpo"
@@ -164,7 +160,58 @@
                     data-elementdelay="0.01"
                     data-endelementdelay="0.3"
                     data-endspeed="1200"
-                    data-endeasing="Power4.easeIn"><a href="#" class="theme-btn btn-style-one">contact us</a></div>
+                    data-endeasing="Power4.easeIn"><a href="#" class="theme-btn btn-style-one">DETAILS</a> &ensp;&ensp; </a></div>
+                    
+
+                    
+                    
+                    </li>
+                    <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/3.jpg"  data-saveperformance="off"  data-title="Awesome Title Here">
+                    <img src="images/banner4.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+                    
+                    <!--Overlay Style Four-->
+                    
+                    <div class="tp-caption sfl sfb tp-resizeme"
+                    data-x="left" data-hoffset="15"
+                    data-y="center" data-voffset="-110"
+                    data-speed="1500"
+                    data-start="0"
+                    data-easing="easeOutExpo"
+                    data-splitin="none"
+                    data-splitout="none"
+                    data-elementdelay="0.01"
+                    data-endelementdelay="0.3"
+                    data-endspeed="1200"
+                    data-endeasing="Power4.easeIn"><div class="border-title">All Types Conveyor</div></div>
+                    <div class="tp-caption sfl sfb tp-resizeme"
+                    data-x="left" data-hoffset="15"
+                    data-y="center" data-voffset="5"
+                    data-speed="1500"
+                    data-start="500"
+                    data-easing="easeOutExpo"
+                    data-splitin="none"
+                    data-splitout="none"
+                    data-elementdelay="0.01"
+                    data-endelementdelay="0.3"
+                    data-endspeed="1200"
+                    data-endeasing="Power4.easeIn"><h3> Our standard and modular designs enabling us to <br>provide quick delivery and reasonable prices for requirements.</h3></div>
+                    
+                    <div class="tp-caption sfr sfb tp-resizeme"
+                    data-x="left" data-hoffset="15"
+                    data-y="center" data-voffset="125"
+                    data-speed="1500"
+                    data-start="1000"
+                    data-easing="easeOutExpo"
+                    data-splitin="none"
+                    data-splitout="none"
+                    data-elementdelay="0.01"
+                    data-endelementdelay="0.3"
+                    data-endspeed="1200"
+                    data-endeasing="Power4.easeIn"><a href="#" class="theme-btn btn-style-one">DETAILS</a> &ensp;&ensp; </div>
+                    
+                    
+                    
+
                     
                     
                     </li>
@@ -186,7 +233,7 @@
                 	<!--box-column-->
                 	<div class="box-column wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<h2>Hindustan Technology System</h2>
-                        <div class="text">The year is and launches the last of americas deep space probes and we will do it our way yes our way make all our dreams.</div>
+                        <div class="text">Established in the year 2017 at Palghar, Maharashtra, we “Hindustan Technology System” are a Sole Proprietorship based firm, engaged as the foremost manufacturer of Detector Machine, Conveyor Belt, Conveyor System and much more.</div>
                         <a class="more" href="services-details.html">VIEW MORE <span class="fa fa-long-arrow-right"></span></a>
                     </div>
                 </div>
@@ -202,8 +249,8 @@
                             	<div class="icon-box">
                                 	<span class="flaticon-atom"></span>
                                 </div>
-                                <h3>Molecular Research</h3>
-                                <div class="text">The year is and launches the last of that americas deep space probes and we will do it our our way make all come true.</div>
+                                <h3>Advanced Research</h3>
+                                <div class="text">We research and always try to find out the advanced skills for manufacturing</div>
                                 
                             </div>
                         </div>
@@ -215,7 +262,7 @@
                                 	<span class="flaticon-users"></span>
                                 </div>
                                 <h3>Dedicated Team</h3>
-                                <div class="text">The year is and launches the last of that americas deep space probes and we will do it our our way make all come true.</div>
+                                <div class="text">As a foremost manufacturer we are aware of our enormous responsibility to our customers</div>
                                 
                             </div>
                         </div>
@@ -227,7 +274,7 @@
                                 	<span class="flaticon-package-cube-box-for-delivery"></span>
                                 </div>
                                 <h3>Updated Standards</h3>
-                                <div class="text">The year is and launches the last of that americas deep space probes and we will do it our our way make all come true.</div>
+                                <div class="text">We use the latest methods for manufacturing our products to make them the best</div>
                                 
                             </div>
                         </div>
@@ -239,7 +286,7 @@
                                 	<span class="flaticon-anchor"></span>
                                 </div>
                                 <h3>Quality Assurance</h3>
-                                <div class="text">The year is and launches the last of that americas deep space probes and we will do it our our way make all come true.</div>
+                                <div class="text">Before processing/shipping to customers, every product is gone through quality assurance test</div>
                                 
                             </div>
                         </div>
@@ -257,7 +304,7 @@
         	
             <!--Section Title-->
             <div class="sec-title-one">
-            	<h2>Our Featured Services</h2>
+            	<h2>Our Featured Products</h2>
                 <div class="text">The year is and launches the last of americas deep space probes and we dreams.</div>
             </div>
 			<div class="row clearfix">
@@ -270,7 +317,7 @@
                         </div>
                         <div class="lower-content">
                         	<div class="outer-link">
-                        		<a href="services-details.html" class="theme-btn service-title"><span class="flaticon-transport"></span> Agricultural processing</a>
+                        		<a href="services-details.html" class="theme-btn service-title"><span class="flaticon-transport"></span>Pharma Machineries</a>
                             </div>
                         	<div class="text">The way we all became the Brady Bunch and you know where you were then be to end.</div>
                 			<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
@@ -285,7 +332,7 @@
                         </div>
                         <div class="lower-content">
                         	<div class="outer-link">
-                        		<a href="services-details.html" class="theme-btn service-title"><span class="flaticon-database"></span> Chemical Research</a>
+                        		<a href="services-details.html" class="theme-btn service-title"><span class="flaticon-database"></span>Food Industry Machineries</a>
                             </div>
                         	<div class="text">The way we all became the Brady Bunch and you know where you were then be to end.</div>
                 			<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
@@ -300,7 +347,7 @@
                         </div>
                         <div class="lower-content">
                         	<div class="outer-link">
-                        		<a href="services-details.html" class="theme-btn service-title"><span class="fa  fa-support"></span> Metal Engineering</a>
+                        		<a href="services-details.html" class="theme-btn service-title"><span class="fa  fa-support"></span>Metal Detectors</a>
                             </div>
                         	<div class="text">The way we all became the Brady Bunch and you know where you were then be to end.</div>
                 			<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
@@ -308,52 +355,7 @@
                     </div>
                 </div>
                 
-                <div class="service-block-two col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
-                    	<div class="image-box">
-                        	<figure class="image"><a href="services-details.html"><img src="images/resource/service-image-4.jpg" alt=""></a></figure>
-                        </div>
-                        <div class="lower-content">
-                        	<div class="outer-link">
-                        		<a href="services-details.html" class="theme-btn service-title"><span class="flaticon-people"></span> Mechanical Process</a>
-                            </div>
-                        	<div class="text">The way we all became the Brady Bunch and you know where you were then be to end.</div>
-                			<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
-                        </div>
-                    </div>
-                </div>
                 
-                <div class="service-block-two col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
-                    	<div class="image-box">
-                        	<figure class="image"><a href="services-details.html"><img src="images/resource/service-image-5.jpg" alt=""></a></figure>
-                        </div>
-                        <div class="lower-content">
-                        	<div class="outer-link">
-                        		<a href="services-details.html" class="theme-btn service-title"><span class="flaticon-pumpjack-1"></span> Petroleum & Gas</a>
-                            </div>
-                        	<div class="text">The way we all became the Brady Bunch and you know where you were then be to end.</div>
-                			<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="service-block-two col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
-                    	<div class="image-box">
-                        	<figure class="image"><a href="services-details.html"><img src="images/resource/service-image-6.jpg" alt=""></a></figure>
-                        </div>
-                        <div class="lower-content">
-                        	<div class="outer-link">
-                        		<a href="services-details.html" class="theme-btn service-title"><span class="flaticon-technology-2"></span> Power & Energy</a>
-                            </div>
-                        	<div class="text">The way we all became the Brady Bunch and you know where you were then be to end.</div>
-                			<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
-                        </div>
-                    </div>
-                </div>
-                
-            </div>
             
             
         </div>
@@ -362,116 +364,7 @@
     
 
     
-    <!--Main Footer-->
-    <footer class="main-footer">
-    	
-        <!--Footer Upper-->        
-        <div class="footer-upper">
-            <div class="auto-container">
-                <div class="row clearfix">
-                	
-                    <!--Two 4th column-->
-                    <div class="col-md-6 col-sm-12 col-xs-12">
-                    	<div class="row clearfix">
-                            <div class="col-lg-7 col-sm-6 col-xs-12 column">
-                                <div class="footer-widget logo-widget">
-                                    <div class="logo"><a href="index.html"><img src="images/logo-2.png" class="img-responsive" alt=""></a></div>
-                                    <div class="text">The year is and launches the last of that americas deep space probes and we will our our way make all come true.</div>
-                                    
-                                    <ul class="contact-info">
-                                    	<li><span class="icon flaticon-pin"></span> 3A07, Serif St, Orleans, USA-170A</li>
-                                        <li><span class="icon flaticon-technology"></span> +1 - 000 - 8990 - 1560</li>
-                                        <li><span class="icon flaticon-mail-2"></span> support@domain.com</li>
-                                    </ul>
-                                
-                                </div>
-                            </div>
-                            
-                            <!--Footer Column-->
-                            <div class="col-lg-5 col-sm-6 col-xs-12 column">
-                                <div class="sec-title-three">
-                                	<h2>Quick Links</h2>
-                                </div>
-                                <div class="footer-widget links-widget">
-                                    <ul>
-                                        <li><a href="#">Home</a></li>
-                                        <li><a href="#">About Us</a></li>
-                                        <li><a href="#">Products</a></li>
-                                        <li><a href="#">Contact</a></li>
-                                    </ul>
-        
-                                </div>
-                            </div>
-                    	</div>
-                    </div>
-                    <!--Two 4th column End-->
-                    
-                    <!--Two 4th column-->
-                    <div class="col-md-6 col-sm-12 col-xs-12">
-                    	<div class="row clearfix">
-                    		<!--Footer Column-->
-                        	<div class="col-lg-6 col-sm-6 col-xs-12 column">
-                            <div class="sec-title-three">
-                                	<h2>Products</h2>
-                                </div>
-                                <div class="footer-widget links-widget">
-                                    <ul>
-                                        <li><a href="#">Conveyor Belt</a></li>
-                                        <li><a href="#">Conveyor System</a></li>
-                                        <li><a href="#">Vibro Sifter</a></li>
-                                        <li><a href="#">IPC Container</a></li>
-                                        <li><a href="#">Metal Detector</a></li>
-                                        <li><a href="#">Deduster Machine</a></li>
-                                    </ul>
-        
-                                </div>
-                              
-                            </div>
-                           
-                            <!--Footer Column-->
-                    		<div class="col-md-6 col-sm-6 col-xs-12 column">
-                    			<div class="footer-widget gallery-widget">
-                                    <div class="sec-title-three">
-                                    	<h2>Contact Us</h2>
-                                    </div>
-                                    <div class="clearfix">
-                                        <h3>HindustanTechnology</h3>
-                                    </div>
-                                </div>
-                    		</div>
-                    
-                    	</div>
-                    </div><!--Two 4th column End-->
-                    
-                </div>
-                
-            </div>
-        </div>
-        
-        <!--Footer Bottom-->
-    	<div class="footer-bottom">
-            <div class="auto-container">
-            	<div class="row clearfix">
-                    <!--Copyright-->
-                    <div class="col-md-6 col-sm-6 col-xs-12">
-                        <div class="copyright">Copyrights &copy; 2016 Brighton. All Rights Reserved.</div>
-                    </div>
-                    
-                    <div class="col-md-6 col-sm-6 col-xs-12">
-                        <ul class="footer-bottom-social">
-                            <li><a href="#"><span class="fa fa-facebook-f"></span></a></li>
-                            <li><a href="#"><span class="fa fa-twitter"></span></a></li>
-                            <li><a href="#"><span class="fa fa-google-plus"></span></a></li>
-                            <li><a href="#"><span class="fa fa-linkedin"></span></a></li>
-                            <li><a href="#"><span class="fa fa-flickr"></span></a></li>
-                        </ul>
-                    </div>
-                
-                </div>
-            </div>
-        </div>
-        
-    </footer>
+    <?php include 'footer.php'?>
     
 </div>
 <!--End pagewrapper-->
