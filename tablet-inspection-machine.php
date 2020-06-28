@@ -25,7 +25,7 @@
     <!--Page Title-->
     <section class="page-title" style="background-image:url(images/background/featured-2-bg.jpg);">
         <div class="auto-container">
-            <h1>Vibro Sifter Machine</h1>
+            <h1>Tablet Inspection Machine</h1>
         </div>
         
         <!--page-info-->
@@ -36,11 +36,11 @@
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <ul class="bread-crumb clearfix">
                             <li><a href="index.php">Home</a></li>
-                            <li class="active">Vibro Sifter Machine</li>
+                            <li class="active">Tablet Inspection Machine</li>
                         </ul>
                     </div>
                     
-                    <div class="col-md-6 col-sm-6 col-xs-12">
+                    <!-- <div class="col-md-6 col-sm-6 col-xs-12">
                         <ul class="social-nav clearfix">
                             <li><a href="#"><span class="fa fa-facebook-f"></span></a></li>
                             <li><a href="#"><span class="fa fa-twitter"></span></a></li>
@@ -48,7 +48,7 @@
                             <li><a href="#"><span class="fa fa-linkedin"></span></a></li>
                             <li><a href="#"><span class="fa fa-flickr"></span></a></li>
                         </ul>
-                    </div>
+                    </div> -->
                     
                 </div>
             </div>
@@ -66,15 +66,17 @@
                 
                     <section class="content-section services-content">
                     	<figure class="bigger-image"><img src="images/resource/service-detail-1.jpg" alt=""></figure>
-						<div class="sec-title-one"><h2>Vibro Sifter Machine</h2></div>
+						<div class="sec-title-one"><h2>Tablet Inspection Machine</h2></div>
 
                         <div class="text-block">
-                            <p>Hindustan technology system manufacturing and supplier of vibro sifter machine used for
-pharmaceutical and food industry .vibro sifter consists of gyratory screens used to separate solids from
-solids in coarse as well as fine sizes and liquid from solid .our vibro sifter is widely used for size
-separation. In food &amp; chemical industry for gradation &amp; separation of powder, granules, and semi solids.
-Contact parts are made our of stainless steel 316 and non contact parts stainless steel 304 available
-vibro sifter machine double deck/three deck.</p>
+                            <p>Tablet Inspection Machiines are manufacturing in Hindustan Technology System are used in 
+                                pharmaceutical industry for tablet and capsules for close insppections. The defected products
+                             are removed on the surface of Tablet and capsules is the best parts of this machines<br>
+                            Tablet Inspection Machine with stainless steel hopper 316 contact parts and non contact parts 304
+                        are placed and used in the conveyor. Both coated and uncoated tablet can be inspection(8mm to 
+                    20mm) through vibration vibratory petpetrators shoot for dust. Collection are provided and dust extractor 
+                machine can also be provided , reduce guide are provided on edge conveyor to make tablet turns 130 degree of all size 
+            of tablet can be adjusted while on other side first operator can inspect on front side of the tablet and second operator can be inspect second side (i.e reverse) of the tablet reject bin are also provided for rejected tablet.   </p>
                         </div>
 
                         <div class="row clearfix">
@@ -85,9 +87,14 @@ vibro sifter machine double deck/three deck.</p>
                                 <!-- <div class="text">The way we all became the Brady come and listen to a story about a man barely kept his family never heard to the word able this time there is no stopng us the Love Boat soon will be making another run the Love Boat in a promises onething for a eryone be from me and the card attached.</div> -->
                                 
                                 <ul class="list-style-one">
-                                    <li><span class="fa fa-check-square-o"></span> High capacity and optimum use of space</li>
-                                    <li><span class="fa fa-check-square-o"></span> Noiseless maintenance free and high speed machine</li>
-                                    <li><span class="fa fa-check-square-o"></span> Easy for assembly and dicks assembly for cleaning and change over of screens compact and portable unitfor easy of operations</li>
+                                    <li><span class="fa fa-check-square-o"></span> All type tablet and capsules both coated and uncoated can be inspected.</li>
+                                    <li><span class="fa fa-check-square-o"></span> Contact parts 316 and non contact parts 304 are variable and used.</li>
+                                    <li><span class="fa fa-check-square-o"></span> On both faces tablet surfaces is completed inspected.</li>
+                                    <li><span class="fa fa-check-square-o"></span> Food grade conveyor bell (color - green)</li>
+                                    <li><span class="fa fa-check-square-o"></span> Magnifying lens with separate adjustable tube light stand for better viewing. </li>
+                                    <li><span class="fa fa-check-square-o"></span> On edge of conveyor reduce guides are provided to make tablets turns 130 degree. </li>
+                                    <li><span class="fa fa-check-square-o"></span> For rejected tablets reject bin are provided.</li>
+                                    <li><span class="fa fa-check-square-o"></span> Minimum height 800 maximum height 870 adjusted + 70mm</li>
                                 </ul>
                                 
 
@@ -97,27 +104,7 @@ vibro sifter machine double deck/three deck.</p>
                      
                        
                         </div>
-                        <div class="row clearfix">
-                        	
-                            
-                            <div class="col-md-12 col-sm-12 col-xs-12">
-                            	<div class="sec-title-one"><h2>Technical Specifications</h2></div>
-                                <!-- <div class="text">The way we all became the Brady come and listen to a story about a man barely kept his family never heard to the word able this time there is no stopng us the Love Boat soon will be making another run the Love Boat in a promises onething for a eryone be from me and the card attached.</div> -->
-                                
-                                <ul class="list-style-one">
-                                    <li><span class="fa fa-check-square-o"></span> Deck model : (12’’,5 to 20 kg) (20’’,50 to 200 kg) (30’’, 50 to 300 kg) (36’’, 300 to 400 kg)
-(48’’, 300 to 500 kg)</li>
-                                    <li><span class="fa fa-check-square-o"></span> Motor types vibrating : 0.25 hp/ 0.5hp/ 1hp/ 1.5hp/ 2hp/</li>
-                                    <li><span class="fa fa-check-square-o"></span> Electrical Utilities : 440v/ 50 to 60 hz/ 3ph – 4 core wire /AC</li>
-                                </ul>
-                                
-
-                            
-                        </div>
-						
-                     
-                       
-                        </div>
+                        
                         
                     </section>
 

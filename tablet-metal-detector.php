@@ -25,7 +25,7 @@
     <!--Page Title-->
     <section class="page-title" style="background-image:url(images/background/featured-2-bg.jpg);">
         <div class="auto-container">
-            <h1>Vibro Sifter Machine</h1>
+            <h1>Tablet Metal Detector</h1>
         </div>
         
         <!--page-info-->
@@ -36,11 +36,11 @@
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <ul class="bread-crumb clearfix">
                             <li><a href="index.php">Home</a></li>
-                            <li class="active">Vibro Sifter Machine</li>
+                            <li class="active">Tablet Metal Detector</li>
                         </ul>
                     </div>
                     
-                    <div class="col-md-6 col-sm-6 col-xs-12">
+                    <!-- <div class="col-md-6 col-sm-6 col-xs-12">
                         <ul class="social-nav clearfix">
                             <li><a href="#"><span class="fa fa-facebook-f"></span></a></li>
                             <li><a href="#"><span class="fa fa-twitter"></span></a></li>
@@ -48,7 +48,7 @@
                             <li><a href="#"><span class="fa fa-linkedin"></span></a></li>
                             <li><a href="#"><span class="fa fa-flickr"></span></a></li>
                         </ul>
-                    </div>
+                    </div> -->
                     
                 </div>
             </div>
@@ -66,15 +66,13 @@
                 
                     <section class="content-section services-content">
                     	<figure class="bigger-image"><img src="images/resource/service-detail-1.jpg" alt=""></figure>
-						<div class="sec-title-one"><h2>Vibro Sifter Machine</h2></div>
+						<div class="sec-title-one"><h2>Tablet Metal Detector</h2></div>
 
                         <div class="text-block">
-                            <p>Hindustan technology system manufacturing and supplier of vibro sifter machine used for
-pharmaceutical and food industry .vibro sifter consists of gyratory screens used to separate solids from
-solids in coarse as well as fine sizes and liquid from solid .our vibro sifter is widely used for size
-separation. In food &amp; chemical industry for gradation &amp; separation of powder, granules, and semi solids.
-Contact parts are made our of stainless steel 316 and non contact parts stainless steel 304 available
-vibro sifter machine double deck/three deck.</p>
+                            <p>Hindustan technology system manufacturing and supplier of Tablet Metal Detector. Tablet Metal Detector are used in
+                                pharmaceutical industry for tablet and capsules inspection for 5000 to 7000 tablet and capsules per minute depend 
+                                on size and shape with high output throughout can be inspected.
+                            </p>
                         </div>
 
                         <div class="row clearfix">
@@ -85,9 +83,15 @@ vibro sifter machine double deck/three deck.</p>
                                 <!-- <div class="text">The way we all became the Brady come and listen to a story about a man barely kept his family never heard to the word able this time there is no stopng us the Love Boat soon will be making another run the Love Boat in a promises onething for a eryone be from me and the card attached.</div> -->
                                 
                                 <ul class="list-style-one">
-                                    <li><span class="fa fa-check-square-o"></span> High capacity and optimum use of space</li>
-                                    <li><span class="fa fa-check-square-o"></span> Noiseless maintenance free and high speed machine</li>
-                                    <li><span class="fa fa-check-square-o"></span> Easy for assembly and dicks assembly for cleaning and change over of screens compact and portable unitfor easy of operations</li>
+                                    <li><span class="fa fa-check-square-o"></span> <strong>Direction Theory: </strong>Balance coil aperature/Tunnel size - 80mm(w) * 30mm(h)</li>
+                                    <li><span class="fa fa-check-square-o"></span> <strong>Detector Design: </strong>All Ferrous, Non Ferrous and SS particles</li>
+                                    <li><span class="fa fa-check-square-o"></span> <strong>MOC Option: </strong>SS316 Contact perts and SS304 Noncontact parts</li>
+                                    <li><span class="fa fa-check-square-o"></span> <strong>Rejection Option: </strong>Rapid Flap System</li>
+                                    <li><span class="fa fa-check-square-o"></span> <strong>Display: </strong>LCD Display with 100 product memory and 3 level security code. 
+                                System can be rotate 360 degree with very easy height adjustment. Non metalic chute made from Food grade. Control of 
+                            product effect cancellation Audio and Visual indications on detector rject mechanism (solenoid operations) Reject bin attach to reject mechanism 
+                        and it can be easily cleaned and washed.</li>
+                                    <li><span class="fa fa-check-square-o"></span> <strong>Input Voltage: </strong>230VAC/01PH/50Hz and power supply 12v.</li>
                                 </ul>
                                 
 
@@ -97,27 +101,10 @@ vibro sifter machine double deck/three deck.</p>
                      
                        
                         </div>
-                        <div class="row clearfix">
-                        	
-                            
-                            <div class="col-md-12 col-sm-12 col-xs-12">
-                            	<div class="sec-title-one"><h2>Technical Specifications</h2></div>
-                                <!-- <div class="text">The way we all became the Brady come and listen to a story about a man barely kept his family never heard to the word able this time there is no stopng us the Love Boat soon will be making another run the Love Boat in a promises onething for a eryone be from me and the card attached.</div> -->
-                                
-                                <ul class="list-style-one">
-                                    <li><span class="fa fa-check-square-o"></span> Deck model : (12’’,5 to 20 kg) (20’’,50 to 200 kg) (30’’, 50 to 300 kg) (36’’, 300 to 400 kg)
-(48’’, 300 to 500 kg)</li>
-                                    <li><span class="fa fa-check-square-o"></span> Motor types vibrating : 0.25 hp/ 0.5hp/ 1hp/ 1.5hp/ 2hp/</li>
-                                    <li><span class="fa fa-check-square-o"></span> Electrical Utilities : 440v/ 50 to 60 hz/ 3ph – 4 core wire /AC</li>
-                                </ul>
-                                
-
-                            
-                        </div>
+                        
 						
                      
                        
-                        </div>
                         
                     </section>
 

@@ -94,9 +94,9 @@
                                 <li class="dropdown"><a href="#">Products</a>
                                     <ul>
                                         <li><a href="pharma-machineries.php">Pharma Machineries</a></li>
-                                        <li><a href="services-details.html">Food Industry Machineries</a></li>
-                                        <li><a href="services-details.html">Metal Detectors</a></li>
-                                        <li><a href="services-details.html">All types Of Conveyor</a></li>
+                                        <li><a href="food-industry-machineries.php">Food Industry Machineries</a></li>
+                                        <li><a href="metal-detectors.php">Metal Detectors</a></li>
+                                        <li><a href="conveyors.php">All types Of Conveyor</a></li>
                                         
                                     </ul>
                                 </li>
@@ -139,10 +139,10 @@
                                 <li><a href="about-us.php">About Us</a></li>
                                 <li class="dropdown"><a href="#">Products</a>
                                     <ul>
-                                    <li><a href="services.html">Pharma Machineries</a></li>
-                                        <li><a href="services-details.html">Food Industry Machineries</a></li>
-                                        <li><a href="services-details.html">Metal Detectors</a></li>
-                                        <li><a href="services-details.html">All types Of Conveyor</a></li>
+                                    <li><a href="pharma-machineries.php">Pharma Machineries</a></li>
+                                        <li><a href="food-industry-machineries.php">Food Industry Machineries</a></li>
+                                        <li><a href="metal-detectors.php">Metal Detectors</a></li>
+                                        <li><a href="conveyors.php">All types Of Conveyor</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="contact.php">Contact Us</a></li>

@@ -21,7 +21,7 @@
     <!--Page Title-->
     <section class="page-title" style="background-image:url(images/background/featured-2-bg.jpg);">
         <div class="auto-container">
-            <h1>Food Industry Machineries</h1>
+            <h1>Pharma Machineries</h1>
         </div>
         
         <!--page-info-->
@@ -32,11 +32,11 @@
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <ul class="bread-crumb clearfix">
                             <li><a href="index.php">Home</a></li>
-                            <li class="active">Food Industry Machineries</li>
+                            <li class="active">Pharma Machineries</li>
                         </ul>
                     </div>
                     
-                    <!-- <div class="col-md-6 col-sm-6 col-xs-12">
+                    <div class="col-md-6 col-sm-6 col-xs-12">
                         <ul class="social-nav clearfix">
                             <li><a href="#"><span class="fa fa-facebook-f"></span></a></li>
                             <li><a href="#"><span class="fa fa-twitter"></span></a></li>
@@ -44,7 +44,7 @@
                             <li><a href="#"><span class="fa fa-linkedin"></span></a></li>
                             <li><a href="#"><span class="fa fa-flickr"></span></a></li>
                         </ul>
-                    </div> -->
+                    </div>
                     
                 </div>
             </div>
@@ -60,7 +60,7 @@
         	
             <!--Section Title-->
             <div class="sec-title-one">
-            	<h2>Food Industry Machineries</h2>
+            	<h2>Pharma Machineries</h2>
                 <!-- <div class="text">The year is and launches the last of americas deep space probes and we dreams.</div> -->
             </div>
 			
@@ -87,14 +87,14 @@
                 <div class="service-block-two col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<div class="image-box">
-                        	<figure class="image"><a href="gravity-feed-metal-detector.php"><img src="images/resource/service-image-1.jpg" alt=""></a></figure>
+                        	<figure class="image"><a href="tablet-metal-detector.php"><img src="images/resource/service-image-1.jpg" alt=""></a></figure>
                         </div>
                         <div class="lower-content">
                         	<div class="outer-link">
-                        		<a href="gravity-feed-metal-detector.php" class="theme-btn service-title"><span class="flaticon-transport"></span> Gravity Feed Metal Detector</a>
+                        		<a href="tablet-metal-detector.php" class="theme-btn service-title"><span class="flaticon-transport"></span> Tablet Metal Detector</a>
                             </div>
-                        	<div class="text">Crafted with precision elaborate range of gravity feed metal detector.</div>
-                			<div class="link-box"><a href="gravity-feed-metal-detector.php" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
+                        	<div class="text">Hindustan Technology System manufacturing and supplier of Tablet Metal Detector.</div>
+                			<div class="link-box"><a href="tablet-metal-detector.php" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
                         </div>
                     </div>
                 </div>
@@ -102,14 +102,14 @@
                 <div class="service-block-two col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<div class="image-box">
-                        	<figure class="image"><a href="chain-driver-shifting-conveyor.php"><img src="images/resource/service-image-2.jpg" alt=""></a></figure>
+                        	<figure class="image"><a href="tablet-inspection-machine.php"><img src="images/resource/service-image-2.jpg" alt=""></a></figure>
                         </div>
                         <div class="lower-content">
                         	<div class="outer-link">
-                        		<a href="chain-driver-shifting-conveyor.php" class="theme-btn service-title"><span class="flaticon-database"></span> Chain Driver Shifting Conveyor</a>
+                        		<a href="tablet-inspection-machine.php" class="theme-btn service-title"><span class="flaticon-database"></span> Tablet Inspection Machine</a>
                             </div>
-                        	<div class="text">Chain Driver Roller Shifting Conveyor is used transport crates & heavier application for transporting.</div>
-                			<div class="link-box"><a href="chain-driver-shifting-conveyor.php" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
+                        	<div class="text">Tablet Inspection Machines are manufacturing in Hindustan Technology System.</div>
+                			<div class="link-box"><a href="tablet-inspection-machine.php" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
                         </div>
                     </div>
                 </div>
@@ -117,32 +117,60 @@
                 <div class="service-block-two col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<div class="image-box">
-                        	<figure class="image"><a href="food-metal-detector.php"><img src="images/resource/service-image-3.jpg" alt=""></a></figure>
+                        	<figure class="image"><a href="packing-conveyor.php"><img src="images/resource/service-image-3.jpg" alt=""></a></figure>
                         </div>
                         <div class="lower-content">
                         	<div class="outer-link">
-                        		<a href="food-metal-detector.php" class="theme-btn service-title"><span class="fa  fa-support"></span> Conveyor Metal Detector</a>
+                        		<a href="packing-conveyor.php" class="theme-btn service-title"><span class="fa  fa-support"></span> Packing Conveyor</a>
                             </div>
-                        	<div class="text">We manufacture and supply a quality range of Food Industry Metal Detectors.</div>
-                			<div class="link-box"><a href="food-metal-detector.php" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
+                        	<div class="text">The packing conveyor is configured with the help of high quality stainless steel.</div>
+                			<div class="link-box"><a href="packing-conveyor.php" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
                         </div>
                     </div>
                 </div>
                 <div class="service-block-two col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<div class="image-box">
-                        	<figure class="image"><a href="food-industry-conveyor.php"><img src="images/resource/service-image-3.jpg" alt=""></a></figure>
+                        	<figure class="image"><a href="de-blistering-machine.php"><img src="images/resource/service-image-3.jpg" alt=""></a></figure>
                         </div>
                         <div class="lower-content">
                         	<div class="outer-link">
-                        		<a href="food-industry-conveyor.php" class="theme-btn service-title"><span class="fa  fa-support"></span> Food Industry Conveyor</a>
+                        		<a href="de-blistering-machine.php" class="theme-btn service-title"><span class="fa  fa-support"></span> De Blistering Machine</a>
                             </div>
-                        	<div class="text">We offer a wide range of Z conveyor, which are manufactured using good quality raw materials.</div>
-                			<div class="link-box"><a href="food-industry-conveyor.php" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
+                        	<div class="text">De Blistering machines are used for speedy full recovery products from Blister pack</div>
+                			<div class="link-box"><a href="de-blistering-machine.php" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
                         </div>
                     </div>
                 </div>
-          
+                <div class="service-block-two col-md-6 col-sm-6 col-xs-12">
+                	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    	<div class="image-box">
+                        	<figure class="image"><a href="vibro-sifter-machine.php"><img src="images/resource/service-image-3.jpg" alt=""></a></figure>
+                        </div>
+                        <div class="lower-content">
+                        	<div class="outer-link">
+                        		<a href="vibro-sifter-machine.php" class="theme-btn service-title"><span class="fa  fa-support"></span> Vibro Sifter Machine</a>
+                            </div>
+                        	<div class="text">Hindustan Technology System manufacturer and supplier of Vibro Sifter Machine.</div>
+                			<div class="link-box"><a href="vibro-sifter-machine.php" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="service-block-two col-md-6 col-sm-6 col-xs-12">
+                	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    	<div class="image-box">
+                        	<figure class="image"><a href="ipc-container.php"><img src="images/resource/service-image-4.jpg" alt=""></a></figure>
+                        </div>
+                        <div class="lower-content">
+                        	<div class="outer-link">
+                        		<a href="ipc-container.php" class="theme-btn service-title"><span class="flaticon-people"></span> I P C Container</a>
+                            </div>
+                        	<div class="text">Hindustan Technology System manufacturer and supplier of IPC Container.</div>
+                			<div class="link-box"><a href="ipc-container.php" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
+                        </div>
+                    </div>
+                </div>
 
                 
             </div>
