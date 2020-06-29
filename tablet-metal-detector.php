@@ -23,7 +23,7 @@
     <!--End Main Header -->
     
     <!--Page Title-->
-    <section class="page-title" style="background-image:url(images/TMD1.jpg);">
+    <section class="page-title" style="background-image:url(images/background/featured-2-bg.jpg)">
         <div class="auto-container">
             <h1>Tablet Metal Detector</h1>
         </div>
