@@ -25,7 +25,7 @@
     <!--Page Title-->
     <section class="page-title" style="background-image:url(images/background/featured-2-bg.jpg);">
         <div class="auto-container">
-            <h1>Vibro Sifter Machine</h1>
+            <h1>DE BLISTERING MACHINE</h1>
         </div>
         
         <!--page-info-->
@@ -36,20 +36,9 @@
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <ul class="bread-crumb clearfix">
                             <li><a href="index.php">Home</a></li>
-                            <li class="active">Vibro Sifter Machine</li>
+                            <li class="active">De Blistering Machine</li>
                         </ul>
                     </div>
-                    
-                    <div class="col-md-6 col-sm-6 col-xs-12">
-                        <ul class="social-nav clearfix">
-                            <li><a href="#"><span class="fa fa-facebook-f"></span></a></li>
-                            <li><a href="#"><span class="fa fa-twitter"></span></a></li>
-                            <li><a href="#"><span class="fa fa-google-plus"></span></a></li>
-                            <li><a href="#"><span class="fa fa-linkedin"></span></a></li>
-                            <li><a href="#"><span class="fa fa-flickr"></span></a></li>
-                        </ul>
-                    </div>
-                    
                 </div>
             </div>
         </div>
@@ -66,15 +55,13 @@
                 
                     <section class="content-section services-content">
                     	<figure class="bigger-image"><img src="images/resource/service-detail-1.jpg" alt=""></figure>
-						<div class="sec-title-one"><h2>Vibro Sifter Machine</h2></div>
+						<div class="sec-title-one"><h2>De Blistering Machine</h2></div>
 
                         <div class="text-block">
-                            <p>Hindustan technology system manufacturing and supplier of vibro sifter machine used for
-pharmaceutical and food industry .vibro sifter consists of gyratory screens used to separate solids from
-solids in coarse as well as fine sizes and liquid from solid .our vibro sifter is widely used for size
-separation. In food &amp; chemical industry for gradation &amp; separation of powder, granules, and semi solids.
-Contact parts are made our of stainless steel 316 and non contact parts stainless steel 304 available
-vibro sifter machine double deck/three deck.</p>
+                            <p>De Blistering Machine us for pharmaceutical industry this machine us for speedy full recovery
+products from blister pack. 100% separation & collection of products scrap. Tablet collection tray provided 
+by drawer system and tablet contact parts standard steel 316 and non contact parts S.S. 304 and alluminium
+anodized body &amp; csuitable for hard gelatin capsules.</p>
                         </div>
 
                         <div class="row clearfix">
@@ -85,9 +72,12 @@ vibro sifter machine double deck/three deck.</p>
                                 <!-- <div class="text">The way we all became the Brady come and listen to a story about a man barely kept his family never heard to the word able this time there is no stopng us the Love Boat soon will be making another run the Love Boat in a promises onething for a eryone be from me and the card attached.</div> -->
                                 
                                 <ul class="list-style-one">
-                                    <li><span class="fa fa-check-square-o"></span> High capacity and optimum use of space</li>
-                                    <li><span class="fa fa-check-square-o"></span> Noiseless maintenance free and high speed machine</li>
-                                    <li><span class="fa fa-check-square-o"></span> Easy for assembly and dicks assembly for cleaning and change over of screens compact and portable unitfor easy of operations</li>
+                                    <li><span class="fa fa-check-square-o"></span> 100% separation and collection of products</li>
+                                    <li><span class="fa fa-check-square-o"></span> Maximum blister width 135mm</li>
+                                    <li><span class="fa fa-check-square-o"></span> Adjustable setting for strip</li>
+                                    <li><span class="fa fa-check-square-o"></span> Out put-30 to 40 blister / min manually</li>
+                                    <li><span class="fa fa-check-square-o"></span> Power consumption formula 0.05 kw</li>
+                                    <li><span class="fa fa-check-square-o"></span> In put supply 230v 50hz</li>
                                 </ul>
                                 
 
@@ -101,18 +91,7 @@ vibro sifter machine double deck/three deck.</p>
                         	
                             
                             <div class="col-md-12 col-sm-12 col-xs-12">
-                            	<div class="sec-title-one"><h2>Technical Specifications</h2></div>
-                                <!-- <div class="text">The way we all became the Brady come and listen to a story about a man barely kept his family never heard to the word able this time there is no stopng us the Love Boat soon will be making another run the Love Boat in a promises onething for a eryone be from me and the card attached.</div> -->
-                                
-                                <ul class="list-style-one">
-                                    <li><span class="fa fa-check-square-o"></span> Deck model : (12’’,5 to 20 kg) (20’’,50 to 200 kg) (30’’, 50 to 300 kg) (36’’, 300 to 400 kg)
-(48’’, 300 to 500 kg)</li>
-                                    <li><span class="fa fa-check-square-o"></span> Motor types vibrating : 0.25 hp/ 0.5hp/ 1hp/ 1.5hp/ 2hp/</li>
-                                    <li><span class="fa fa-check-square-o"></span> Electrical Utilities : 440v/ 50 to 60 hz/ 3ph – 4 core wire /AC</li>
-                                </ul>
-                                
-
-                            
+                            	
                         </div>
 						
                      
