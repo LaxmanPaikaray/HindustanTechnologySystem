@@ -36,7 +36,7 @@
                         </ul>
                     </div>
                     
-                    <div class="col-md-6 col-sm-6 col-xs-12">
+                    <!--<div class="col-md-6 col-sm-6 col-xs-12">
                         <ul class="social-nav clearfix">
                             <li><a href="#"><span class="fa fa-facebook-f"></span></a></li>
                             <li><a href="#"><span class="fa fa-twitter"></span></a></li>
@@ -44,7 +44,7 @@
                             <li><a href="#"><span class="fa fa-linkedin"></span></a></li>
                             <li><a href="#"><span class="fa fa-flickr"></span></a></li>
                         </ul>
-                    </div>
+                    </div>-->
                     
                 </div>
             </div>
@@ -87,7 +87,7 @@
                 <div class="service-block-two col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<div class="image-box">
-                        	<figure class="image"><a href="tablet-metal-detector.php"><img src="images/resource/service-image-1.jpg" alt=""></a></figure>
+                        	<figure class="image"><a href="tablet-metal-detector.php"><img src="images/TMD.jpg" alt=""></a></figure>
                         </div>
                         <div class="lower-content">
                         	<div class="outer-link">
@@ -102,7 +102,7 @@
                 <div class="service-block-two col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<div class="image-box">
-                        	<figure class="image"><a href="tablet-inspection-machine.php"><img src="images/resource/service-image-2.jpg" alt=""></a></figure>
+                        	<figure class="image"><a href="tablet-inspection-machine.php"><img src="images/TIM.jpg" alt=""></a></figure>
                         </div>
                         <div class="lower-content">
                         	<div class="outer-link">
@@ -117,7 +117,7 @@
                 <div class="service-block-two col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<div class="image-box">
-                        	<figure class="image"><a href="packing-conveyor.php"><img src="images/resource/service-image-3.jpg" alt=""></a></figure>
+                        	<figure class="image"><a href="packing-conveyor.php"><img src="images/PC.jpg" alt=""></a></figure>
                         </div>
                         <div class="lower-content">
                         	<div class="outer-link">
@@ -131,7 +131,7 @@
                 <div class="service-block-two col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<div class="image-box">
-                        	<figure class="image"><a href="de-blistering-machine.php"><img src="images/resource/service-image-3.jpg" alt=""></a></figure>
+                        	<figure class="image"><a href="de-blistering-machine.php"><img src="images/DBM.jpg" alt=""></a></figure>
                         </div>
                         <div class="lower-content">
                         	<div class="outer-link">
@@ -145,7 +145,7 @@
                 <div class="service-block-two col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<div class="image-box">
-                        	<figure class="image"><a href="vibro-sifter-machine.php"><img src="images/resource/service-image-3.jpg" alt=""></a></figure>
+                        	<figure class="image"><a href="vibro-sifter-machine.php"><img src="images/VS.jpg" alt=""></a></figure>
                         </div>
                         <div class="lower-content">
                         	<div class="outer-link">
@@ -160,7 +160,7 @@
                 <div class="service-block-two col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<div class="image-box">
-                        	<figure class="image"><a href="ipc-container.php"><img src="images/resource/service-image-4.jpg" alt=""></a></figure>
+                        	<figure class="image"><a href="ipc-container.php"><img src="images/IPC.jpg" alt=""></a></figure>
                         </div>
                         <div class="lower-content">
                         	<div class="outer-link">

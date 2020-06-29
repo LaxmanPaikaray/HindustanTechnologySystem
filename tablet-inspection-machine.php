@@ -23,7 +23,7 @@
     <!--End Main Header -->
     
     <!--Page Title-->
-    <section class="page-title" style="background-image:url(images/background/featured-2-bg.jpg);">
+    <section class="page-title" style="background-image:url(images/TIM1.jpg);">
         <div class="auto-container">
             <h1>Tablet Inspection Machine</h1>
         </div>
@@ -65,7 +65,7 @@
                 <div class="content-side col-lg-9 col-md-8 col-sm-12 col-xs-12">
                 
                     <section class="content-section services-content">
-                    	<figure class="bigger-image"><img src="images/resource/service-detail-1.jpg" alt=""></figure>
+                    	<figure class="bigger-image"><img src="images/TIM1.jpg" alt=""></figure>
 						<div class="sec-title-one"><h2>Tablet Inspection Machine</h2></div>
 
                         <div class="text-block">

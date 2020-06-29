@@ -54,7 +54,7 @@
                 <div class="content-side col-lg-9 col-md-8 col-sm-12 col-xs-12">
                 
                     <section class="content-section services-content">
-                    	<figure class="bigger-image"><img src="images/resource/service-detail-1.jpg" alt=""></figure>
+                    	<figure class="bigger-image"><img src="images/DBM1.jpg" alt=""></figure>
 						<div class="sec-title-one"><h2>De Blistering Machine</h2></div>
 
                         <div class="text-block">
@@ -68,7 +68,7 @@ anodized body &amp; csuitable for hard gelatin capsules.</p>
                         	
                             
                             <div class="col-md-12 col-sm-12 col-xs-12">
-                            	<div class="sec-title-one"><h2>Features</h2></div>
+                            	<div class="sec-title-one"><h2>Techinical Specifications</h2></div>
                                 <!-- <div class="text">The way we all became the Brady come and listen to a story about a man barely kept his family never heard to the word able this time there is no stopng us the Love Boat soon will be making another run the Love Boat in a promises onething for a eryone be from me and the card attached.</div> -->
                                 
                                 <ul class="list-style-one">

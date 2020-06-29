@@ -54,7 +54,7 @@
                 <div class="content-side col-lg-9 col-md-8 col-sm-12 col-xs-12">
                 
                     <section class="content-section services-content">
-                    	<figure class="bigger-image"><img src="images/resource/service-detail-1.jpg" alt=""></figure>
+                    	<figure class="bigger-image"><img src="images/pc1.jpg" alt=""></figure>
 						<div class="sec-title-one"><h2>Packing Conveyor</h2></div>
 
                         <div class="text-block">
@@ -74,9 +74,9 @@ drive available in the PVC packing conveyor belt.</p>
                                 <!-- <div class="text">The way we all became the Brady come and listen to a story about a man barely kept his family never heard to the word able this time there is no stopng us the Love Boat soon will be making another run the Love Boat in a promises onething for a eryone be from me and the card attached.</div> -->
                                 
                                 <ul class="list-style-one">
-                                    <li><span class="fa fa-check-square-o"></span><b> Height of Conveyor: </b> 860 mm to 910 mm, endless 2 ply sandwich, 2mm thickness PVC, endless
+                                    <li><span class="fa fa-check-square-o"></span> <strong> Height of Conveyor : </strong> 860 mm to 910 mm, endless 2 ply sandwich, 2mm thickness PVC, endless
                                      2 ply sandwich, 2mm thickness PVC, endless 2 ply sandwich, 2mm thickness. </li>
-                                    <li><span class="fa fa-check-square-o"></span><b>Power characteristic:</b> 0.5 HP/220v/50 Hz 0.5 HP/220v/50Hz</li>
+                                    <li><span class="fa fa-check-square-o"></span> <strong>Power characteristic : </strong> 0.5 HP/220v/50 Hz 0.5 HP/220v/50Hz</li>
                                 </ul>
                                 
 

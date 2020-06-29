@@ -32,7 +32,7 @@
         <!--Page Title-->
         <section class="page-title" style="background-image:url(images/background/featured-2-bg.jpg);">
             <div class="auto-container">
-                <h1>Food Metal Detector</h1>
+                <h1>Chain Driver Shifting Conveyor</h1>
             </div>
 
             <!--page-info-->
@@ -43,7 +43,7 @@
                         <div class="col-md-6 col-sm-6 col-xs-12">
                             <ul class="bread-crumb clearfix">
                                 <li><a href="index.php">Home</a></li>
-                                <li class="active">Food Metal Detector</li>
+                                <li class="active">Chain Driver Shifting Conveyor</li>
                             </ul>
                         </div>
 
@@ -75,19 +75,14 @@
                             <figure class="bigger-image"><img src="images/resource/service-detail-1.jpg" alt="">
                             </figure>
                             <div class="sec-title-one">
-                                <h2>Food Metal Detector</h2>
+                                <h2>Chain Driver Shifting Conveyor</h2>
                             </div>
 
                             <div class="text-block">
-                                <p>We manufacture and supply a quality range of food industry metal detectors for
-                                    processing industry
-                                    thee metal detectors are widely used in the food processing industry for containment
-                                    detection they
-                                    can be installed in every step of the production process and can be used for many
-                                    different applications
-                                    g for the inspection of bread and bakery products meat and bakery products meat and
-                                    sausage product
-                                    fruit, vegetable aid products spices sugar etc.</p>
+                                <p>Chain driver roller shifting conveyor is used in transport creats and
+                                heavier application for transporting goods from one place to another. The conveyor is
+                                constructed with steel or stainless steel depending on requirement and environment.
+                                The drive is often provided with roll-on-roll loop chain.</p>
                             </div>
 
 
@@ -99,12 +94,12 @@
 
 
                                 <div class="col-md-12 col-sm-12 col-xs-12">
-                                    <div class="sec-title-one">
+                                    <!--<div class="sec-title-one">
                                         <h2>Features</h2>
-                                    </div>
+                                    </div>-->
                                     <!-- <div class="text">The way we all became the Brady come and listen to a story about a man barely kept his family never heard to the word able this time there is no stopng us the Love Boat soon will be making another run the Love Boat in a promises onething for a eryone be from me and the card attached.</div> -->
 
-                                    <ul class="list-style-one">
+                                   <!-- <ul class="list-style-one">
                                         <li><span class="fa fa-check-square-o"></span> Reject mechanism automatic
                                             rejection of contaminated products</li>
                                         <li><span class="fa fa-check-square-o"></span> Customize design system as per
@@ -125,7 +120,7 @@
                                             sea food industry. Dry food industry general material handling </li>
                                         <li><span class="fa fa-check-square-o"></span> <strong>Conveyor motor:</strong>
                                             rang e form 0.5 Hp to 2 Hp motor based on Applicaton </li>
-                                    </ul>
+                                    </ul>-->
 
 
 
@@ -138,12 +133,12 @@
 
 
                                 <div class="col-md-12 col-sm-12 col-xs-12">
-                                    <div class="sec-title-one">
+                                    <!--<div class="sec-title-one">
                                         <h2>Technical Specifications</h2>
-                                    </div>
+                                    </div>-->
                                     <!-- <div class="text">The way we all became the Brady come and listen to a story about a man barely kept his family never heard to the word able this time there is no stopng us the Love Boat soon will be making another run the Love Boat in a promises onething for a eryone be from me and the card attached.</div> -->
 
-                                    <ul class="list-style-one">
+                                    <!--<ul class="list-style-one">
                                         <li><span class="fa fa-check-square-o"></span> <strong>Vesion: </strong>
                                             digital/ analog</li>
                                         <li><span class="fa fa-check-square-o"></span> <strong>Machine type:

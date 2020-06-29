@@ -32,7 +32,7 @@
         <!--Page Title-->
         <section class="page-title" style="background-image:url(images/background/featured-2-bg.jpg);">
             <div class="auto-container">
-                <h1>Food Metal Detector</h1>
+                <h1>Gravity Feed Metal Detector</h1>
             </div>
 
             <!--page-info-->
@@ -43,7 +43,7 @@
                         <div class="col-md-6 col-sm-6 col-xs-12">
                             <ul class="bread-crumb clearfix">
                                 <li><a href="index.php">Home</a></li>
-                                <li class="active">Food Metal Detector</li>
+                                <li class="active">Gravity Feed Metal Detector</li>
                             </ul>
                         </div>
 
@@ -75,19 +75,18 @@
                             <figure class="bigger-image"><img src="images/resource/service-detail-1.jpg" alt="">
                             </figure>
                             <div class="sec-title-one">
-                                <h2>Food Metal Detector</h2>
+                                <h2>Gravity Feed Metal Detector</h2>
                             </div>
 
                             <div class="text-block">
-                                <p>We manufacture and supply a quality range of food industry metal detectors for
-                                    processing industry
-                                    thee metal detectors are widely used in the food processing industry for containment
-                                    detection they
-                                    can be installed in every step of the production process and can be used for many
-                                    different applications
-                                    g for the inspection of bread and bakery products meat and bakery products meat and
-                                    sausage product
-                                    fruit, vegetable aid products spices sugar etc.</p>
+                                <p>Crafted with precision elaborate range of gravity feed metal detector.
+                                The GFMD that we manufacture using the finest quality raw material and very efficient
+                                in detecting varied metal such as Gold, Silver, Stainless Steel and many more.
+                                This detector is widely used in decting metal contamination in dry powder, granules
+                                and free flowing product GFMD can also be installed to the pipeline. The inspection can 
+                                going through the metal detector is made from polypropylene, nylon, teflon, plastic
+                                depending on the application. Metal detector diverts ferrour, non-ferrour and
+                                stainless steel passed through the mechanism contamination from the main flow.</p>
                             </div>
 
 
@@ -105,26 +104,16 @@
                                     <!-- <div class="text">The way we all became the Brady come and listen to a story about a man barely kept his family never heard to the word able this time there is no stopng us the Love Boat soon will be making another run the Love Boat in a promises onething for a eryone be from me and the card attached.</div> -->
 
                                     <ul class="list-style-one">
-                                        <li><span class="fa fa-check-square-o"></span> Reject mechanism automatic
-                                            rejection of contaminated products</li>
-                                        <li><span class="fa fa-check-square-o"></span> Customize design system as per
-                                            client preferences</li>
-                                        <li><span class="fa fa-check-square-o"></span> sensitive to all ferrous no
-                                            ferrous &stainless steel contaminate </li>
-                                        <li><span class="fa fa-check-square-o"></span> compact design </li>
-                                        <li><span class="fa fa-check-square-o"></span> <strong>Belt type :</strong> p u
-                                            food grade, p v e and modular &available in different size </li>
-                                        <li><span class="fa fa-check-square-o"></span> <strong>belt colour :</strong>
-                                            white green & blue in colour </li>
-                                        <li><span class="fa fa-check-square-o"></span>online stability </li>
-                                        <li><span class="fa fa-check-square-o"></span> <strong>Finish : </strong> matt
-                                            finish( for stainless steel material )& powder coating (for mild steel
-                                            material ) </li>
-                                        <li><span class="fa fa-check-square-o"></span> <strong>Application :</strong>
-                                            food industry. packaged line products. All types Snacks line products. and
-                                            sea food industry. Dry food industry general material handling </li>
-                                        <li><span class="fa fa-check-square-o"></span> <strong>Conveyor motor:</strong>
-                                            rang e form 0.5 Hp to 2 Hp motor based on Applicaton </li>
+                                        <li><span class="fa fa-check-square-o"></span> High sensitivity to all metal rejection and 100%
+                                        detection.</li>
+                                        <li><span class="fa fa-check-square-o"></span> Automatic rejection of contaminated products.</li>
+                                        <li><span class="fa fa-check-square-o"></span> Compact self design.</li>
+                                        <li><span class="fa fa-check-square-o"></span> Noiseless operation.</li>
+                                        <li><span class="fa fa-check-square-o"></span> On line stability.</li>
+                                        <li><span class="fa fa-check-square-o"></span> Reject confirmation.</li>
+                                        <li><span class="fa fa-check-square-o"></span> Available in required size.</li>
+                                        <li><span class="fa fa-check-square-o"></span> User friendly machine.</li>
+                                        <li><span class="fa fa-check-square-o"></span> Height adjustment available.</li>
                                     </ul>
 
 
@@ -138,12 +127,12 @@
 
 
                                 <div class="col-md-12 col-sm-12 col-xs-12">
-                                    <div class="sec-title-one">
+                                   <!-- <div class="sec-title-one">
                                         <h2>Technical Specifications</h2>
-                                    </div>
+                                    </div>-->
                                     <!-- <div class="text">The way we all became the Brady come and listen to a story about a man barely kept his family never heard to the word able this time there is no stopng us the Love Boat soon will be making another run the Love Boat in a promises onething for a eryone be from me and the card attached.</div> -->
 
-                                    <ul class="list-style-one">
+                                   <!-- <ul class="list-style-one">
                                         <li><span class="fa fa-check-square-o"></span> <strong>Vesion: </strong>
                                             digital/ analog</li>
                                         <li><span class="fa fa-check-square-o"></span> <strong>Machine type:

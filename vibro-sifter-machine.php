@@ -40,7 +40,7 @@
                         </ul>
                     </div>
                     
-                    <div class="col-md-6 col-sm-6 col-xs-12">
+                    <!--<div class="col-md-6 col-sm-6 col-xs-12">
                         <ul class="social-nav clearfix">
                             <li><a href="#"><span class="fa fa-facebook-f"></span></a></li>
                             <li><a href="#"><span class="fa fa-twitter"></span></a></li>
@@ -48,7 +48,7 @@
                             <li><a href="#"><span class="fa fa-linkedin"></span></a></li>
                             <li><a href="#"><span class="fa fa-flickr"></span></a></li>
                         </ul>
-                    </div>
+                    </div>-->
                     
                 </div>
             </div>
@@ -65,7 +65,7 @@
                 <div class="content-side col-lg-9 col-md-8 col-sm-12 col-xs-12">
                 
                     <section class="content-section services-content">
-                    	<figure class="bigger-image"><img src="images/resource/service-detail-1.jpg" alt=""></figure>
+                    	<figure class="bigger-image"><img src="images/VS1.jpg" alt=""></figure>
 						<div class="sec-title-one"><h2>Vibro Sifter Machine</h2></div>
 
                         <div class="text-block">

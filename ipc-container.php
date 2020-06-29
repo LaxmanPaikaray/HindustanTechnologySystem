@@ -65,7 +65,7 @@
                 <div class="content-side col-lg-9 col-md-8 col-sm-12 col-xs-12">
                 
                     <section class="content-section services-content">
-                    	<figure class="bigger-image"><img src="images/resource/service-detail-1.jpg" alt=""></figure>
+                    	<figure class="bigger-image"><img src="images/IPC1.jpg" alt=""></figure>
 						<div class="sec-title-one"><h2>IPC Container</h2></div>
 
                         <div class="text-block">
@@ -78,14 +78,14 @@
                         	
                             
                             <div class="col-md-12 col-sm-12 col-xs-12">
-                            	<div class="sec-title-one"><h2>Features</h2></div>
+                            	<!--<div class="sec-title-one"><h2>Features</h2></div>-->
                                 <!-- <div class="text">The way we all became the Brady come and listen to a story about a man barely kept his family never heard to the word able this time there is no stopng us the Love Boat soon will be making another run the Love Boat in a promises onething for a eryone be from me and the card attached.</div> -->
                                 
-                                <ul class="list-style-one">
+                                <!--<ul class="list-style-one">
                                     <li><span class="fa fa-check-square-o"></span> High capacity and optimum use of space</li>
                                     <li><span class="fa fa-check-square-o"></span> Noiseless maintenance free and high speed machine</li>
                                     <li><span class="fa fa-check-square-o"></span> Easy for assembly and dicks assembly for cleaning and change over of screens compact and portable unitfor easy of operations</li>
-                                </ul>
+                                </ul>-->
                                 
 
                             
@@ -98,7 +98,7 @@
                         	
                             
                             <div class="col-md-12 col-sm-12 col-xs-12">
-                            	<!--<div class="sec-title-one"><h2>Technical Specifications</h2></div>
+                            	<!--<div class="sec-title-one"><h2>Technical Specifications</h2></div>-->
                                 <!-- <div class="text">The way we all became the Brady come and listen to a story about a man barely kept his family never heard to the word able this time there is no stopng us the Love Boat soon will be making another run the Love Boat in a promises onething for a eryone be from me and the card attached.</div> -->
                                 
                                <!-- <ul class="list-style-one">
