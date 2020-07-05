@@ -21,7 +21,7 @@
     <!--Page Title-->
     <section class="page-title" style="background-image:url(images/background/featured-2-bg.jpg);">
         <div class="auto-container">
-            <h1>Pharma Machineries</h1>
+            <h1>All Types Of Conveyor</h1>
         </div>
         
         <!--page-info-->
@@ -32,11 +32,11 @@
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <ul class="bread-crumb clearfix">
                             <li><a href="index.php">Home</a></li>
-                            <li class="active">Pharma Machineries</li>
+                            <li class="active">All Types Of Conveyor</li>
                         </ul>
                     </div>
                     
-                    <div class="col-md-6 col-sm-6 col-xs-12">
+                    <!--<div class="col-md-6 col-sm-6 col-xs-12">
                         <ul class="social-nav clearfix">
                             <li><a href="#"><span class="fa fa-facebook-f"></span></a></li>
                             <li><a href="#"><span class="fa fa-twitter"></span></a></li>
@@ -44,7 +44,7 @@
                             <li><a href="#"><span class="fa fa-linkedin"></span></a></li>
                             <li><a href="#"><span class="fa fa-flickr"></span></a></li>
                         </ul>
-                    </div>
+                    </div>-->
                     
                 </div>
             </div>
@@ -60,7 +60,7 @@
         	
             <!--Section Title-->
             <div class="sec-title-one">
-            	<h2>Pharma Machineries</h2>
+            	<h2>All Types Of Conveyor</h2>
                 <!-- <div class="text">The year is and launches the last of americas deep space probes and we dreams.</div> -->
             </div>
 			
@@ -84,7 +84,7 @@
             <div class="col-lg-9 col-md-8 col-sm-12 col-xs-12">
             	
                 <!--Service block two-->
-                <div class="service-block-two col-md-6 col-sm-6 col-xs-12">
+               <!-- <div class="service-block-two col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<div class="image-box">
                         	<figure class="image"><a href="tablet-metal-detector.php"><img src="images/resource/service-image-1.jpg" alt=""></a></figure>
@@ -112,12 +112,12 @@
                 			<div class="link-box"><a href="tablet-inspection-machine.php" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
                         </div>
                     </div>
-                </div>
+                </div>-->
                 
                 <div class="service-block-two col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<div class="image-box">
-                        	<figure class="image"><a href="packing-conveyor.php"><img src="images/resource/service-image-3.jpg" alt=""></a></figure>
+                        	<figure class="image"><a href="packing-conveyor.php"><img src="images/PC.jpg" alt=""></a></figure>
                         </div>
                         <div class="lower-content">
                         	<div class="outer-link">
@@ -129,6 +129,48 @@
                     </div>
                 </div>
                 <div class="service-block-two col-md-6 col-sm-6 col-xs-12">
+                	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    	<div class="image-box">
+                        	<figure class="image"><a href="chain-driver-shifting-conveyor.php"><img src="images/cdsc.jpg" alt=""></a></figure>
+                        </div>
+                        <div class="lower-content">
+                        	<div class="outer-link">
+                        		<a href="chain-driver-shifting-conveyor.php" class="theme-btn service-title"><span class="flaticon-database"></span> Chain Driver Shifting Conveyor</a>
+                            </div>
+                        	<div class="text">Chain Driver Roller Shifting Conveyor is used transport crates & heavier application for transporting.</div>
+                			<div class="link-box"><a href="chain-driver-shifting-conveyor.php" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="service-block-two col-md-6 col-sm-6 col-xs-12">
+                	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    	<div class="image-box">
+                        	<figure class="image"><a href="food-industry-conveyor.php"><img src="images/fic.jpg" alt=""></a></figure>
+                        </div>
+                        <div class="lower-content">
+                        	<div class="outer-link">
+                        		<a href="food-industry-conveyor.php" class="theme-btn service-title"><span class="fa  fa-support"></span> Food Industry Conveyor</a>
+                            </div>
+                        	<div class="text">We offer a wide range of Z conveyor, which are manufactured using good quality raw materials.</div>
+                			<div class="link-box"><a href="food-industry-conveyor.php" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="service-block-two col-md-6 col-sm-6 col-xs-12">
+                	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    	<div class="image-box">
+                        	<figure class="image"><a href="food-metal-detector.php"><img src="images/cmd2.jpg" alt=""></a></figure>
+                        </div>
+                        <div class="lower-content">
+                        	<div class="outer-link">
+                        		<a href="food-metal-detector.php" class="theme-btn service-title"><span class="fa  fa-support"></span> Conveyor Metal Detector</a>
+                            </div>
+                        	<div class="text">We manufacture and supply a quality range of Food Industry Metal Detectors.</div>
+                			<div class="link-box"><a href="food-metal-detector.php" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
+                        </div>
+                    </div>
+                </div>
+                <!--<div class="service-block-two col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<div class="image-box">
                         	<figure class="image"><a href="de-blistering-machine.php"><img src="images/resource/service-image-3.jpg" alt=""></a></figure>
@@ -170,7 +212,7 @@
                 			<div class="link-box"><a href="ipc-container.php" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
                         </div>
                     </div>
-                </div>
+                </div>-->
 
                 
             </div>

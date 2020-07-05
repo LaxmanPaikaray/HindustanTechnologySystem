@@ -32,7 +32,7 @@
         <!--Page Title-->
         <section class="page-title" style="background-image:url(images/background/featured-2-bg.jpg);">
             <div class="auto-container">
-                <h1>Food Metal Detector</h1>
+                <h1>Conveyor Metal Detector</h1>
             </div>
 
             <!--page-info-->
@@ -43,7 +43,7 @@
                         <div class="col-md-6 col-sm-6 col-xs-12">
                             <ul class="bread-crumb clearfix">
                                 <li><a href="index.php">Home</a></li>
-                                <li class="active">Food Metal Detector</li>
+                                <li class="active">Conveyor Metal Detector</li>
                             </ul>
                         </div>
 
@@ -72,10 +72,10 @@
                     <div class="content-side col-lg-9 col-md-8 col-sm-12 col-xs-12">
 
                         <section class="content-section services-content">
-                            <figure class="bigger-image"><img src="images/resource/service-detail-1.jpg" alt="">
+                            <figure class="bigger-image"><img src="images/cmd3.jpg" alt="">
                             </figure>
                             <div class="sec-title-one">
-                                <h2>Food Metal Detector</h2>
+                                <h2>Conveyor Metal Detector</h2>
                             </div>
 
                             <div class="text-block">

@@ -11,7 +11,7 @@
                     	<div class="row clearfix">
                             <div class="col-lg-7 col-sm-6 col-xs-12 column">
                                 <div class="footer-widget logo-widget">
-                                    <div class="logo"><a href="index.html"><img src="images/finalogo.png" class="img-responsive" alt=""></a></div>
+                                    <div class="logo"><a href="index.html"><img src="images/finalogo(1).png" class="img-responsive" alt=""></a></div>
                                     <div class="text">The year is and launches the last of that americas deep space probes and we will our our way make all come true.</div>
                                     
                                     <ul class="contact-info">
@@ -31,7 +31,7 @@
                                 <div class="footer-widget links-widget">
                                     <ul>
                                         <li><a href="#">Home</a></li>
-                                        <li><a href="#">About Us</a></li>
+                                        <li><a href="about-us.php">About Us</a></li>
                                         <li><a href="#">Products</a></li>
                                         <li><a href="#">Contact</a></li>
                                     </ul>

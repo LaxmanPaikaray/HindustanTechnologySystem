@@ -72,7 +72,7 @@
                     <div class="content-side col-lg-9 col-md-8 col-sm-12 col-xs-12">
 
                         <section class="content-section services-content">
-                            <figure class="bigger-image"><img src="images/resource/service-detail-1.jpg" alt="">
+                            <figure class="bigger-image"><img src="images/fic1.jpg" alt="">
                             </figure>
                             <div class="sec-title-one">
                                 <h2>Food Industry Conveyor</h2>
