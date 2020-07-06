@@ -34,15 +34,7 @@
                         </ul>
                     </div>
                     
-                    <div class="col-md-6 col-sm-6 col-xs-12">
-                        <ul class="social-nav clearfix">
-                            <li><a href="#"><span class="fa fa-facebook-f"></span></a></li>
-                            <li><a href="#"><span class="fa fa-twitter"></span></a></li>
-                            <li><a href="#"><span class="fa fa-google-plus"></span></a></li>
-                            <li><a href="#"><span class="fa fa-linkedin"></span></a></li>
-                            <li><a href="#"><span class="fa fa-flickr"></span></a></li>
-                        </ul>
-                    </div>
+                    
                 
                 </div>
             </div>
@@ -69,9 +61,10 @@
                 	<!--content-column-->
                 	<div class="content-column">
                     	<div class="sec-title-one">
-                        	<h2>About Brighton Industry</h2>
+                        	<h2>Hindustan Technology System</h2>
                     	</div>
-                        <div class="text">The year is and launches the last of americas deep space probes and we dreams the way we all became the Brady Bunch and you to a do know where you were then be to end  but baby think of me once in a while the Brady Bunch and you to a do know where you were then be to end  but baby think of me once in a while.</div>
+                        <div class="text">Hindustan Technology System is established by Mr. Sujit Samantaray on 24th October 2017. Now it is one of the best manufacturer and supplier of Pharma Machineries, Food Industry Machineries as well as conveyor systems.
+                             The company uses most advanced technologies, best quality assurance for manufacturing process.</div>
                         <ul class="row clearfix">
                         	<li class="col-md-4 col-sm-12 col-xs-12">
                             	<div class="icon-box"><span class="fa fa-star-o"></span></div>
@@ -164,7 +157,6 @@
                         <ul class="tab-buttons clearfix">
                             <li data-tab="#tab-one" class="tab-btn active-btn">What we do</li>
                             <li data-tab="#tab-two" class="tab-btn">Our Mission</li>
-                            <li data-tab="#tab-three" class="tab-btn">Our Vision</li>
                         </ul>
                             
                         <!--Tabs Content-->
@@ -172,23 +164,24 @@
                             <!--Tab / Active Tab-->
                             <div class="tab active-tab" id="tab-one">
                                 <div class="text-content">
-                                    <div class="text">The Love Boat promises something for everyone be from me and the card rached would say federal impossible to this bee time there is no stopping us the Love Boat soon will be the Love Boat in a promises something for a everyone be from me and the card attached would say federal impossible making another run all became the Brady come and listen to a story about a man Boat soon.</div>
+                                    <div class="text">We produce the best modified pharma and food industry machineries to cope up with the modernization. 
+                                        For long-term business prospects, we offer our customers with highly innovative solutions </div>
                                     <div class="row clearfix">
-                                    	<div class="col-md-6 col-sm-6">
+                                    	<div class="col-md-12 col-sm-12">
                                         	<ul class="list-style-one">
-                                            	<li><span class="fa fa-check-square-o"></span> Promises something for everyone</li>
-                                                <li><span class="fa fa-check-square-o"></span> Feels so right it cant be wrong</li>
-                                                <li><span class="fa fa-check-square-o"></span> Fellow and they knew it</li>
+                                            	<li><span class="fa fa-check-square-o"></span> Pre-purchase Technical Guidance</li>
+                                                <li><span class="fa fa-check-square-o"></span> Installation Guidance</li>
+                                                <li><span class="fa fa-check-square-o"></span> Operation Safety and Equipment Safety Guidelines</li>
                                             </ul>
                                         </div>
                                         
-                                        <div class="col-md-6 col-sm-6">
+                                        <!-- <div class="col-md-6 col-sm-6">
                                         	<ul class="list-style-one">
                                             	<li><span class="fa fa-check-square-o"></span> Promises something for everyone</li>
                                                 <li><span class="fa fa-check-square-o"></span> Feels so right it cant be wrong</li>
                                                 <li><span class="fa fa-check-square-o"></span> Fellow and they knew it</li>
                                             </ul>
-                                        </div>
+                                        </div> -->
                                         
                                     </div>
                                 </div>
@@ -197,52 +190,31 @@
                             <!--Tab-->
                             <div class="tab" id="tab-two">
                                 <div class="text-content">
-                                    <div class="text">The Love Boat promises something for everyone be from me and the card rached would say federal impossible to this bee time there is no stopping us the Love Boat soon will be the Love Boat in a promises something for a everyone be from me and the card attached would say federal impossible making another run all became the Brady come and listen to a story about a man Boat soon.</div>
+                                    <div class="text">Our mission is to become the best preferred supplier of Pharma Machineries, Food Industry Machineries, conveyor systems. 
+                                        Keeping our promises before our customers is our first moto.</div>
                                     <div class="row clearfix">
-                                    	<div class="col-md-6 col-sm-6">
+                                    	<div class="col-md-12 col-sm-12">
                                         	<ul class="list-style-one">
-                                            	<li><span class="fa fa-check-square-o"></span> Promises something for everyone</li>
-                                                <li><span class="fa fa-check-square-o"></span> Feels so right it cant be wrong</li>
-                                                <li><span class="fa fa-check-square-o"></span> Fellow and they knew it</li>
+                                            	<li><span class="fa fa-check-square-o"></span> To provide high quality products, services and solutions in a timely manner.</li>
+                                                <li><span class="fa fa-check-square-o"></span> To enhance value for our customers.</li>
+                                                <li><span class="fa fa-check-square-o"></span> Lead the world with modernized technologies</li>
                                             </ul>
                                         </div>
                                         
-                                        <div class="col-md-6 col-sm-6">
+                                        <!-- <div class="col-md-6 col-sm-6">
                                         	<ul class="list-style-one">
                                             	<li><span class="fa fa-check-square-o"></span> Promises something for everyone</li>
                                                 <li><span class="fa fa-check-square-o"></span> Feels so right it cant be wrong</li>
                                                 <li><span class="fa fa-check-square-o"></span> Fellow and they knew it</li>
                                             </ul>
-                                        </div>
+                                        </div> -->
                                         
                                     </div>
                                 </div>
                             </div>
                             
                             <!--Tab-->
-                            <div class="tab" id="tab-three">
-                                <div class="text-content">
-                                    <div class="text">The Love Boat promises something for everyone be from me and the card rached would say federal impossible to this bee time there is no stopping us the Love Boat soon will be the Love Boat in a promises something for a everyone be from me and the card attached would say federal impossible making another run all became the Brady come and listen to a story about a man Boat soon.</div>
-                                    <div class="row clearfix">
-                                    	<div class="col-md-6 col-sm-6">
-                                        	<ul class="list-style-one">
-                                            	<li><span class="fa fa-check-square-o"></span> Promises something for everyone</li>
-                                                <li><span class="fa fa-check-square-o"></span> Feels so right it cant be wrong</li>
-                                                <li><span class="fa fa-check-square-o"></span> Fellow and they knew it</li>
-                                            </ul>
-                                        </div>
-                                        
-                                        <div class="col-md-6 col-sm-6">
-                                        	<ul class="list-style-one">
-                                            	<li><span class="fa fa-check-square-o"></span> Promises something for everyone</li>
-                                                <li><span class="fa fa-check-square-o"></span> Feels so right it cant be wrong</li>
-                                                <li><span class="fa fa-check-square-o"></span> Fellow and they knew it</li>
-                                            </ul>
-                                        </div>
-                                        
-                                    </div>
-                                </div>
-                            </div>
+                            
                             
                         </div>
                         
@@ -277,6 +249,7 @@
 <script src="js/owl.js"></script>
 <script src="js/wow.js"></script>
 <script src="js/script.js"></script>
+<?php include 'quote.php'?>
 </body>
 
 <!-- Mirrored from world5.commonsupport.com/html2/brighton/about-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 16 Jun 2020 16:00:25 GMT -->

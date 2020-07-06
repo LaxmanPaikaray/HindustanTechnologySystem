@@ -5547,6 +5547,9 @@ img{
 	color:#2a2d94;
 	font-size:14px;
 }
+#res-message{
+	color: blue
+}
 
 /*** 
 
@@ -8143,7 +8146,39 @@ img{
 .billing-details .shop-form .form-group{
 	margin-bottom:30px;	
 }
+#enquiryModal .modal-header .close {
+    margin-top: -21px;
+    font-size: 27px;
+}
+#enquiryModal .modal-header .close {
+    margin-top: -24px;
+    font-size: 27px;
+}
+#enquiryModal .modal-header {
+    padding: 9px 15px;
+}
+#enquiryModal .modal-title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #275474;
+}
+#enquiryModal #mobile {
+	padding: 7px 5px;
+    height: auto;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
 
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+form#enquiry-form {
+    text-align: center;
+}
 .shop-form input[type="text"],
 .shop-form input[type="email"],
 .shop-form input[type="password"],

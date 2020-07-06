@@ -36,15 +36,7 @@
                         </ul>
                     </div>
                     
-                    <!--<div class="col-md-6 col-sm-6 col-xs-12">
-                        <ul class="social-nav clearfix">
-                            <li><a href="#"><span class="fa fa-facebook-f"></span></a></li>
-                            <li><a href="#"><span class="fa fa-twitter"></span></a></li>
-                            <li><a href="#"><span class="fa fa-google-plus"></span></a></li>
-                            <li><a href="#"><span class="fa fa-linkedin"></span></a></li>
-                            <li><a href="#"><span class="fa fa-flickr"></span></a></li>
-                        </ul>
-                    </div>-->
+                   
                     
                 </div>
             </div>
@@ -198,6 +190,7 @@
 <script src="js/owl.js"></script>
 <script src="js/wow.js"></script>
 <script src="js/script.js"></script>
+<?php include 'quote.php'?>
 </body>
 
 <!-- Mirrored from world5.commonsupport.com/html2/brighton/services.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 16 Jun 2020 16:00:25 GMT -->

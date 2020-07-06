@@ -1,1 +1,2 @@
 "# HindustanTechnologySystem" 
+Hindustan Technology System is established by Mr. Sujit Samantaray on 24th October 2017. Now it is one of the best manufacturer and supplier of Pharma Machineries, Food Industry Machineries as well as conveyor systems. The company uses most advanced technologies, best quality assurance.
