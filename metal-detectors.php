@@ -21,7 +21,7 @@
     <!--Page Title-->
     <section class="page-title" style="background-image:url(images/background/featured-2-bg.jpg);">
         <div class="auto-container">
-            <h1>Pharma Machineries</h1>
+            <h1>Metal Detectors</h1>
         </div>
         
         <!--page-info-->
@@ -32,7 +32,7 @@
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <ul class="bread-crumb clearfix">
                             <li><a href="index.php">Home</a></li>
-                            <li class="active">Pharma Machineries</li>
+                            <li class="active">Metal Detectors</li>
                         </ul>
                     </div>
                     
@@ -52,7 +52,7 @@
         	
             <!--Section Title-->
             <div class="sec-title-one">
-            	<h2>Pharma Machineries</h2>
+            	<h2>Metal Detectors</h2>
                 <!-- <div class="text">The year is and launches the last of americas deep space probes and we dreams.</div> -->
             </div>
 			
@@ -79,7 +79,7 @@
                 <div class="service-block-two col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<div class="image-box">
-                        	<figure class="image"><a href="tablet-metal-detector.php"><img src="images/resource/service-image-1.jpg" alt=""></a></figure>
+                        	<figure class="image"><a href="tablet-metal-detector.php"><img src="images/TMD.jpg" alt=""></a></figure>
                         </div>
                         <div class="lower-content">
                         	<div class="outer-link">
@@ -90,8 +90,22 @@
                         </div>
                     </div>
                 </div>
-                
                 <div class="service-block-two col-md-6 col-sm-6 col-xs-12">
+                	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    	<div class="image-box">
+                        	<figure class="image"><a href="food-metal-detector.php"><img src="images/cmd2.jpg" alt=""></a></figure>
+                        </div>
+                        <div class="lower-content">
+                        	<div class="outer-link">
+                        		<a href="food-metal-detector.php" class="theme-btn service-title"><span class="fa  fa-support"></span> Conveyor Metal Detector</a>
+                            </div>
+                        	<div class="text">We manufacture and supply a quality range of Food Industry Metal Detectors.</div>
+                			<div class="link-box"><a href="food-metal-detector.php" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!--<div class="service-block-two col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<div class="image-box">
                         	<figure class="image"><a href="tablet-inspection-machine.php"><img src="images/resource/service-image-2.jpg" alt=""></a></figure>
@@ -162,7 +176,7 @@
                 			<div class="link-box"><a href="ipc-container.php" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
                         </div>
                     </div>
-                </div>
+                </div>-->
 
                 
             </div>

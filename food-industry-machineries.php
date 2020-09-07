@@ -79,7 +79,7 @@
                 <div class="service-block-two col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<div class="image-box">
-                        	<figure class="image"><a href="gravity-feed-metal-detector.php"><img src="images/resource/service-image-1.jpg" alt=""></a></figure>
+                        	<figure class="image"><a href="gravity-feed-metal-detector.php"><img src="images/GFMD.jpg" alt=""></a></figure>
                         </div>
                         <div class="lower-content">
                         	<div class="outer-link">
@@ -94,7 +94,7 @@
                 <div class="service-block-two col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<div class="image-box">
-                        	<figure class="image"><a href="chain-driver-shifting-conveyor.php"><img src="images/resource/service-image-2.jpg" alt=""></a></figure>
+                        	<figure class="image"><a href="chain-driver-shifting-conveyor.php"><img src="images/cdsc.jpg" alt=""></a></figure>
                         </div>
                         <div class="lower-content">
                         	<div class="outer-link">
@@ -109,7 +109,7 @@
                 <div class="service-block-two col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<div class="image-box">
-                        	<figure class="image"><a href="food-metal-detector.php"><img src="images/resource/service-image-3.jpg" alt=""></a></figure>
+                        	<figure class="image"><a href="food-metal-detector.php"><img src="images/cmd2.jpg" alt=""></a></figure>
                         </div>
                         <div class="lower-content">
                         	<div class="outer-link">
@@ -123,7 +123,7 @@
                 <div class="service-block-two col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<div class="image-box">
-                        	<figure class="image"><a href="food-industry-conveyor.php"><img src="images/resource/service-image-3.jpg" alt=""></a></figure>
+                        	<figure class="image"><a href="food-industry-conveyor.php"><img src="images/fic.jpg" alt=""></a></figure>
                         </div>
                         <div class="lower-content">
                         	<div class="outer-link">

@@ -234,7 +234,7 @@
                 	<div class="box-column wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<h2>Hindustan Technology System</h2>
                         <div class="text">Established in the year 2017 at Palghar, Maharashtra, we “Hindustan Technology System” are a Sole Proprietorship based firm, engaged as the foremost manufacturer of Detector Machine, Conveyor Belt, Conveyor System and much more.</div>
-                        <a class="more" href="services-details.html">VIEW MORE <span class="fa fa-long-arrow-right"></span></a>
+                        <a class="more" href="about-us.php">VIEW MORE <span class="fa fa-long-arrow-right"></span></a>
                     </div>
                 </div>
                 
@@ -298,68 +298,7 @@
     </section>
 
     
-    <!--services-column-two-->
-    <section class="services-column-two">
-    	<div class="auto-container">
-        	
-            <!--Section Title-->
-            <div class="sec-title-one">
-            	<h2>Our Featured Products</h2>
-                <div class="text">The year is and launches the last of americas deep space probes and we dreams.</div>
-            </div>
-			<div class="row clearfix">
-            	
-                <!--Service block two-->
-                <div class="service-block-two col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
-                    	<div class="image-box">
-                        	<figure class="image"><a href="services-details.html"><img src="images/resource/service-image-1.jpg" alt=""></a></figure>
-                        </div>
-                        <div class="lower-content">
-                        	<div class="outer-link">
-                        		<a href="services-details.html" class="theme-btn service-title"><span class="flaticon-transport"></span>Pharma Machineries</a>
-                            </div>
-                        	<div class="text">The way we all became the Brady Bunch and you know where you were then be to end.</div>
-                			<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="service-block-two col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
-                    	<div class="image-box">
-                        	<figure class="image"><a href="services-details.html"><img src="images/resource/service-image-2.jpg" alt=""></a></figure>
-                        </div>
-                        <div class="lower-content">
-                        	<div class="outer-link">
-                        		<a href="services-details.html" class="theme-btn service-title"><span class="flaticon-database"></span>Food Industry Machineries</a>
-                            </div>
-                        	<div class="text">The way we all became the Brady Bunch and you know where you were then be to end.</div>
-                			<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="service-block-two col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
-                    	<div class="image-box">
-                        	<figure class="image"><a href="services-details.html"><img src="images/resource/service-image-3.jpg" alt=""></a></figure>
-                        </div>
-                        <div class="lower-content">
-                        	<div class="outer-link">
-                        		<a href="services-details.html" class="theme-btn service-title"><span class="fa  fa-support"></span>Metal Detectors</a>
-                            </div>
-                        	<div class="text">The way we all became the Brady Bunch and you know where you were then be to end.</div>
-                			<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
-                        </div>
-                    </div>
-                </div>
-                
-                
-            
-            
-        </div>
-    </section>
+
     
     
 

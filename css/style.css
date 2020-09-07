@@ -8162,6 +8162,9 @@ img{
     font-weight: bold;
     color: #275474;
 }
+.upper-column.info-box.download-pdf {
+    cursor: pointer;
+}
 #enquiryModal #mobile {
 	padding: 7px 5px;
     height: auto;

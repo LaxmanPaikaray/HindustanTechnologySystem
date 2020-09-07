@@ -52,7 +52,7 @@
                         </div>
                         
                         <!--Info Box-->
-                        <div class="upper-column info-box">
+                        <a class="upper-column info-box download-pdf" download href="hindustan-technology-system.pdf">
                         	<!--<div class="link-btn">
                             	<a href="#" class="theme-btn btn-style-one">get a quote</a>
                             </div>-->
@@ -63,7 +63,7 @@
                                 <li>PDF Brochures</li>
                             </ul>
                             
-                        </div>
+</a>
                         
                     </div>
                     

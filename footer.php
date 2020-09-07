@@ -11,7 +11,7 @@
                     	<div class="row clearfix">
                             <div class="col-lg-7 col-sm-6 col-xs-12 column">
                                 <div class="footer-widget logo-widget">
-                                    <div class="logo"><a href="index.html"><img src="images/finalogo.png" class="img-responsive" alt=""></a></div>
+                                    <div class="logo"><a href="index.html"><img src="images/finalogo(1).png" class="img-responsive" alt=""></a></div>
                                     <div class="text">We produce the best modified pharma and food industry machineries to cope up with the modernization. For long-term business prospects, we offer our customers with highly innovative solutions.</div>
                                     
                                     
@@ -26,10 +26,10 @@
                                 </div>
                                 <div class="footer-widget links-widget">
                                     <ul>
-                                        <li><a href="#">Home</a></li>
-                                        <li><a href="#">About Us</a></li>
-                                        <li><a href="#">Products</a></li>
-                                        <li><a href="#">Contact</a></li>
+                                        <li><a href="index.php">Home</a></li>
+                                        <li><a href="about-us.php">About Us</a></li>
+                                        <li><a href="pharma-machineries.php">Products</a></li>
+                                        <li><a href="contact-us.php">Contact</a></li>
                                     </ul>
         
                                 </div>
@@ -48,10 +48,10 @@
                                 </div>
                                 <div class="footer-widget links-widget">
                                     <ul>
-                                        <li><a href="#">Pharma Machineries</a></li>
-                                        <li><a href="#">Food Industry Machineries</a></li>
-                                        <li><a href="#">Metal Detectors</a></li>
-                                        <li><a href="#">All types Of Conveyor</a></li>
+                                        <li><a href="pharma-machineries.php">Pharma Machineries</a></li>
+                                        <li><a href="food-industry-machineries.php">Food Industry Machineries</a></li>
+                                        <li><a href="metal-detectors.php">Metal Detectors</a></li>
+                                        <li><a href="conveyors.php">All types Of Conveyor</a></li>
                                         
                                     </ul>
         
@@ -90,7 +90,7 @@ Gala no 1 Agi kampawant Wakipada, Naigaon E Rd, Vasai-Virar, Maharashtra 401208<
             	<div class="row clearfix">
                     <!--Copyright-->
                     <div class="col-md-6 col-sm-6 col-xs-12">
-                        <div class="copyright">Copyrights &copy; 2016 Brighton. All Rights Reserved.</div>
+                        <div class="copyright">Copyrights &copy; 2020 Hindustan Technology System.. All Rights Reserved.</div>
                     </div>
                     
                     
