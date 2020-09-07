@@ -118,12 +118,7 @@ drive available in the PVC packing conveyor belt.</p>
                         </div>
 
 						<!--quote-widget-->
-						<div class="call-to-action-four" style="background-image:url(images/resource/quote-widget.jpg);">
-                        	<div class="title">Any Questions related Solutions? Call us</div>
-                            
-                            <div class="number"><span class="flaticon-phone-receiver"></span> +001-345-6789-00</div>
-                            <a class="theme-btn btn-style-one" href="contact.html">GET QUOTES</a>
-                        </div>
+						<?php include 'query-box.php'?>
 
                     </aside>
 
@@ -152,6 +147,7 @@ drive available in the PVC packing conveyor belt.</p>
 <script src="js/owl.js"></script>
 <script src="js/wow.js"></script>
 <script src="js/script.js"></script>
+<?php include 'quote.php'?>
 </body>
 
 <!-- Mirrored from world5.commonsupport.com/html2/brighton/services-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 16 Jun 2020 16:00:48 GMT -->

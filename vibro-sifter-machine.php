@@ -40,15 +40,7 @@
                         </ul>
                     </div>
                     
-                    <!--<div class="col-md-6 col-sm-6 col-xs-12">
-                        <ul class="social-nav clearfix">
-                            <li><a href="#"><span class="fa fa-facebook-f"></span></a></li>
-                            <li><a href="#"><span class="fa fa-twitter"></span></a></li>
-                            <li><a href="#"><span class="fa fa-google-plus"></span></a></li>
-                            <li><a href="#"><span class="fa fa-linkedin"></span></a></li>
-                            <li><a href="#"><span class="fa fa-flickr"></span></a></li>
-                        </ul>
-                    </div>-->
+                   
                     
                 </div>
             </div>
@@ -140,12 +132,7 @@ vibro sifter machine double deck/three deck.</p>
                         </div>
 
 						<!--quote-widget-->
-						<div class="call-to-action-four" style="background-image:url(images/resource/quote-widget.jpg);">
-                        	<div class="title">Any Questions related Solutions? Call us</div>
-                            
-                            <div class="number"><span class="flaticon-phone-receiver"></span> +001-345-6789-00</div>
-                            <a class="theme-btn btn-style-one" href="contact.html">GET QUOTES</a>
-                        </div>
+						<?php include 'query-box.php'?>
 
                     </aside>
 
@@ -174,6 +161,7 @@ vibro sifter machine double deck/three deck.</p>
 <script src="js/owl.js"></script>
 <script src="js/wow.js"></script>
 <script src="js/script.js"></script>
+<?php include 'quote.php'?>
 </body>
 
 <!-- Mirrored from world5.commonsupport.com/html2/brighton/services-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 16 Jun 2020 16:00:48 GMT -->

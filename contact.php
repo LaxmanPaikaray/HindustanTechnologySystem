@@ -35,15 +35,7 @@
                         </ul>
                     </div>
                     
-                    <div class="col-md-6 col-sm-6 col-xs-12">
-                        <ul class="social-nav clearfix">
-                            <li><a href="#"><span class="fa fa-facebook-f"></span></a></li>
-                            <li><a href="#"><span class="fa fa-twitter"></span></a></li>
-                            <li><a href="#"><span class="fa fa-google-plus"></span></a></li>
-                            <li><a href="#"><span class="fa fa-linkedin"></span></a></li>
-                            <li><a href="#"><span class="fa fa-flickr"></span></a></li>
-                        </ul>
-                    </div>
+                    
                 
                 </div>
             </div>
@@ -63,7 +55,7 @@
                         </div>
                         
                     	<h3>Visit Us</h3>
-                    	<div class="text">A105, New lessi, Walton st,<br>United States - 230A</div>
+                    	<div class="text">Gala no 1 Agi kampawant Wakipada,<br> Naigaon E Rd, Vasai-Virar, Maharashtra 401208</div>
                     </div>
                 </div>
                 
@@ -75,7 +67,7 @@
                         </div>
                         
                     	<h3>Mail Us</h3>
-                    	<div class="text">support@brighton.com<br>info@brighton.com</div>
+                    	<div class="text">sujithindustantechnologysystem@gmail.com<br>info@hindustantechnologysystem.com</div>
                     </div>
                 </div>
                 
@@ -87,7 +79,7 @@
                         </div>
                         
                     	<h3>Call Us</h3>
-                    	<div class="text">(+01) 22-333-4444-000<br>(+01) 33-444-5555-001</div>
+                    	<div class="text">+91-7410-176680<br><br></div>
                     </div>
                 </div>
             </div>
@@ -105,7 +97,7 @@
             <!-- Contact Form -->
             <div class="default-form contact-form">
                 
-                <form method="post" action="http://world5.commonsupport.com/html2/brighton/sendemail.php" id="contact-form">
+                <form method="post"  id="contact-form">
 					<div class="row clearfix">
                         <div class="form-group col-md-6 col-sm-6 col-xs-12">
                             <input type="text" name="username" value="" placeholder="Name *">
@@ -126,7 +118,7 @@
                         <div class="form-group col-md-12 col-sm-12 col-xs-12"><button type="submit" class="theme-btn btn-style-three">Send Message</button></div>
 					</div>
                 </form>
-                
+                <div id="res-message"></div>
             </div>
             <!--End Contact Form -->
                 
@@ -135,21 +127,8 @@
     
     <!--Map Section-->
     <section class="map-section">
-    	<div class="map-outer">
-
-            <!--Map Canvas-->
-            <div class="map-canvas"
-                data-zoom="10"
-                data-lat="23.815811"
-                data-lng="90.412580"
-                data-type="roadmap"
-                data-hue="#fc721e"
-                data-title="Dhaka"
-                data-content="Dhaka 1000-1200, Bangladesh<br><a href='mailto:info@youremail.com'>info@youremail.com</a>"
-                style="height:480px;">
-            </div>
-
-        </div>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3764.208179357499!2d72.87917781438104!3d19.360136548011738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7af7bcb31090b%3A0x12382e50a8451231!2sHindustan%20Technology%20System!5e0!3m2!1sen!2sin!4v1593938674249!5m2!1sen!2sin" width="100%" height="450" 
+    frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
     </section>
     
     
@@ -171,12 +150,27 @@
 <script src="js/validate.js"></script>
 <script src="js/wow.js"></script>
 <script src="js/script.js"></script>
-
+<script>
+$("#contact-form").submit(function(e){
+    e.preventDefault();
+    $.ajax({
+        type: "POST",
+        url: "mail.php",
+        data: $('#contact-form').serialize(),
+        success: function(res){
+            $("#res-message").text(res);
+            setTimeout(() => {
+                $("#res-message").text("")
+            }, 2000);
+        }
+    });
+})
+</script>
 <!--Google Map APi Key-->
 <script src="http://maps.google.com/maps/api/js?key="></script>
 <script src="js/map-script.js"></script>
 <!--End Google Map APi-->
-
+<?php include 'quote.php'?>
 </body>
 
 <!-- Mirrored from world5.commonsupport.com/html2/brighton/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 16 Jun 2020 16:02:35 GMT -->

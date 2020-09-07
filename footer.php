@@ -12,13 +12,9 @@
                             <div class="col-lg-7 col-sm-6 col-xs-12 column">
                                 <div class="footer-widget logo-widget">
                                     <div class="logo"><a href="index.html"><img src="images/finalogo(1).png" class="img-responsive" alt=""></a></div>
-                                    <div class="text">The year is and launches the last of that americas deep space probes and we will our our way make all come true.</div>
+                                    <div class="text">We produce the best modified pharma and food industry machineries to cope up with the modernization. For long-term business prospects, we offer our customers with highly innovative solutions.</div>
                                     
-                                    <ul class="contact-info">
-                                    	<li><span class="icon flaticon-pin"></span> 3A07, Serif St, Orleans, USA-170A</li>
-                                        <li><span class="icon flaticon-technology"></span> +1 - 000 - 8990 - 1560</li>
-                                        <li><span class="icon flaticon-mail-2"></span> support@domain.com</li>
-                                    </ul>
+                                    
                                 
                                 </div>
                             </div>
@@ -30,10 +26,10 @@
                                 </div>
                                 <div class="footer-widget links-widget">
                                     <ul>
-                                        <li><a href="#">Home</a></li>
+                                        <li><a href="index.php">Home</a></li>
                                         <li><a href="about-us.php">About Us</a></li>
-                                        <li><a href="#">Products</a></li>
-                                        <li><a href="#">Contact</a></li>
+                                        <li><a href="pharma-machineries.php">Products</a></li>
+                                        <li><a href="contact-us.php">Contact</a></li>
                                     </ul>
         
                                 </div>
@@ -52,10 +48,10 @@
                                 </div>
                                 <div class="footer-widget links-widget">
                                     <ul>
-                                        <li><a href="#">Pharma Machineries</a></li>
-                                        <li><a href="#">Food Industry Machineries</a></li>
-                                        <li><a href="#">Metal Detectors</a></li>
-                                        <li><a href="#">All types Of Conveyor</a></li>
+                                        <li><a href="pharma-machineries.php">Pharma Machineries</a></li>
+                                        <li><a href="food-industry-machineries.php">Food Industry Machineries</a></li>
+                                        <li><a href="metal-detectors.php">Metal Detectors</a></li>
+                                        <li><a href="conveyors.php">All types Of Conveyor</a></li>
                                         
                                     </ul>
         
@@ -70,7 +66,12 @@
                                     	<h2>Contact Us</h2>
                                     </div>
                                     <div class="clearfix">
-                                        <h3>HindustanTechnology</h3>
+                                        <ul class="contact-info">
+                                    	<li><span class="icon flaticon-pin"></span> Hindustan Technology System
+Gala no 1 Agi kampawant Wakipada, Naigaon E Rd, Vasai-Virar, Maharashtra 401208</li>
+                                        <li><span class="icon flaticon-technology"></span> +91-7410-176680
+</li>
+                                    </ul>
                                     </div>
                                 </div>
                     		</div>
@@ -89,18 +90,10 @@
             	<div class="row clearfix">
                     <!--Copyright-->
                     <div class="col-md-6 col-sm-6 col-xs-12">
-                        <div class="copyright">Copyrights &copy; 2016 Brighton. All Rights Reserved.</div>
+                        <div class="copyright">Copyrights &copy; 2020 Hindustan Technology System.. All Rights Reserved.</div>
                     </div>
                     
-                    <div class="col-md-6 col-sm-6 col-xs-12">
-                        <ul class="footer-bottom-social">
-                            <li><a href="#"><span class="fa fa-facebook-f"></span></a></li>
-                            <li><a href="#"><span class="fa fa-twitter"></span></a></li>
-                            <li><a href="#"><span class="fa fa-google-plus"></span></a></li>
-                            <li><a href="#"><span class="fa fa-linkedin"></span></a></li>
-                            <li><a href="#"><span class="fa fa-flickr"></span></a></li>
-                        </ul>
-                    </div>
+                    
                 
                 </div>
             </div>

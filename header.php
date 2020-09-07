@@ -7,7 +7,7 @@
                     <ul class="links-nav clearfix">
                         <li><span class="fa fa-check-square-o"></span> No.1 Supplier</li>
                         <li><span class="fa  fa-support"></span> Certified ISO 9001 : 2008</li>
-                        <li><span class="fa fa-bell-o"></span> Leading Service Provider</li>
+                        
                     </ul>
                 </div>
                 
@@ -15,7 +15,7 @@
             	<div class="top-right pull-right">
                 	<ul class="links-nav clearfix">
                     	<li><span class="fa fa-star-o"></span> Award Wining Firm</li>
-                        <li><span class="fa fa-globe"></span> English</li>
+                        <li><span class="fa fa-bell-o"></span> Leading Service Provider</li>
                     </ul>
                 </div>
             </div>
@@ -34,36 +34,36 @@
                     <div class="pull-right upper-right clearfix">
                     	
                         <!--Info Box-->
-                        <div class="upper-column info-box">
+                        <!-- <div class="upper-column info-box">
                         	<div class="icon-box"><span class="flaticon-location-pin"></span></div>
                             <ul>
                             	<li><strong>Mon - Sat : 9.00 - 17.30</strong></li>
                                 <li>Sunday : Closed</li>
                             </ul>
-                        </div>
+                        </div> -->
                         
                         <!--Info Box-->
                         <div class="upper-column info-box">
                         	<div class="icon-box"><span class="flaticon-technology"></span></div>
                             <ul>
-                            	<li><strong>+1 - 000 - 8990 - 1560</strong></li>
-                                <li>support@domain.com</li>
+                            	<li><strong>+91-7410-176680</strong></li>
+                                <li>sujithindustantechnologysystem@gmail.com</li>
                             </ul>
                         </div>
                         
                         <!--Info Box-->
-                        <div class="upper-column info-box">
+                        <a class="upper-column info-box download-pdf" download href="hindustan-technology-system.pdf">
                         	<!--<div class="link-btn">
                             	<a href="#" class="theme-btn btn-style-one">get a quote</a>
                             </div>-->
                             
                             <div class="icon-box"><span class="flaticon-inbox"></span></div>
                             <ul>
-                            	<li><strong>Downloads</strong></li>
+                            	<li><strong>Download</strong></li>
                                 <li>PDF Brochures</li>
                             </ul>
                             
-                        </div>
+</a>
                         
                     </div>
                     
@@ -106,7 +106,7 @@
                         </div>
                     </nav>
                     <!-- Main Menu End-->
-                    <div class="btn-outer"><a href="contact.html" class="theme-btn quote-btn"><span class="fa fa-mail-reply-all"></span> Get a Quote</a></div>
+                    <div class="btn-outer"><a  data-toggle="modal" data-target="#enquiryModal" class="theme-btn quote-btn"><span class="fa fa-mail-reply-all"></span> Get a Quote</a></div>
                 </div>
                 
             </div>
@@ -153,5 +153,6 @@
                 
             </div>
         </div><!--End Sticky Header-->
-    
+        
     </header>
+    

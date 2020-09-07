@@ -240,6 +240,7 @@
 <script src="js/owl.js"></script>
 <script src="js/wow.js"></script>
 <script src="js/script.js"></script>
+<?php include 'quote.php'?>
 </body>
 
 <!-- Mirrored from world5.commonsupport.com/html2/brighton/services.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 16 Jun 2020 16:00:25 GMT -->
