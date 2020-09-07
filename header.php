@@ -47,7 +47,7 @@
                         	<div class="icon-box"><span class="flaticon-technology"></span></div>
                             <ul>
                             	<li><strong>+91-7410-176680</strong></li>
-                                <li>sujithindustantechnologysystem@gmail.com</li>
+                                <li>info.hindustantechnologysystem@gmail.com</li>
                             </ul>
                         </div>
                         
