@@ -170,36 +170,36 @@
                         </div>
                     </div>
                 </div>
-                <!--<div class="service-block-two col-md-6 col-sm-6 col-xs-12">
+                <div class="service-block-two col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<div class="image-box">
-                        	<figure class="image"><a href="de-blistering-machine.php"><img src="images/resource/service-image-3.jpg" alt=""></a></figure>
+                        	<figure class="image"><a href="modular-conveyor.php"><img src="images/resource/service-image-3.jpg" alt=""></a></figure>
                         </div>
                         <div class="lower-content">
                         	<div class="outer-link">
-                        		<a href="de-blistering-machine.php" class="theme-btn service-title"><span class="fa  fa-support"></span> De Blistering Machine</a>
+                        		<a href="modular-conveyor.php" class="theme-btn service-title"><span class="fa  fa-support"></span>Modular Conveyor</a>
                             </div>
-                        	<div class="text">De Blistering machines are used for speedy full recovery products from Blister pack</div>
-                			<div class="link-box"><a href="de-blistering-machine.php" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
+                        	<div class="text">Modular belt conveyor is easy to install, maintain and operate because the structure is simple, the control panel is </div>
+                			<div class="link-box"><a href="modular-conveyor.php" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
                         </div>
                     </div>
                 </div>
                 <div class="service-block-two col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<div class="image-box">
-                        	<figure class="image"><a href="vibro-sifter-machine.php"><img src="images/resource/service-image-3.jpg" alt=""></a></figure>
+                        	<figure class="image"><a href="bucket-type-inclined-conveyor.php"><img src="images/resource/service-image-3.jpg" alt=""></a></figure>
                         </div>
                         <div class="lower-content">
                         	<div class="outer-link">
-                        		<a href="vibro-sifter-machine.php" class="theme-btn service-title"><span class="fa  fa-support"></span> Vibro Sifter Machine</a>
+                        		<a href="bucket-type-inclined-conveyor.php" class="theme-btn service-title"><span class="fa  fa-support"></span>Bucket Type Inclined Conveyor</a>
                             </div>
-                        	<div class="text">Hindustan Technology System manufacturer and supplier of Vibro Sifter Machine.</div>
-                			<div class="link-box"><a href="vibro-sifter-machine.php" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
+                        	<div class="text">Bucket type inclined conveyor is fully customization as per the client’s products characteristics, and the sizes</div>
+                			<div class="link-box"><a href="bucket-type-inclined-conveyor.php" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
                         </div>
                     </div>
                 </div>
                 
-                <div class="service-block-two col-md-6 col-sm-6 col-xs-12">
+                <!--<div class="service-block-two col-md-6 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<div class="image-box">
                         	<figure class="image"><a href="ipc-container.php"><img src="images/resource/service-image-4.jpg" alt=""></a></figure>
