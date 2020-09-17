@@ -67,7 +67,7 @@
                         </div>
                         
                     	<h3>Mail Us</h3>
-                    	<div class="text">sujithindustantechnologysystem@gmail.com info.hindustantechnologysystem@gmail.com</div>
+                    	<div class="text">mgmt.hindustantechnologysystem@gmail.com</div>
                     </div>
                 </div>
                 
